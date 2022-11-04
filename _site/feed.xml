@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-03T22:32:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">We got the beat</title><link href="http://localhost:4000/rhythm/2022/11/03/we-got-the-beat.html" rel="alternate" type="text/html" title="We got the beat" /><published>2022-11-03T10:37:03-04:00</published><updated>2022-11-03T10:37:03-04:00</updated><id>http://localhost:4000/rhythm/2022/11/03/we-got-the-beat</id><content type="html" xml:base="http://localhost:4000/rhythm/2022/11/03/we-got-the-beat.html"><![CDATA[<p>A beat is one “pulse.” What constitutes a single pulse is 
+somewhat subjective but it’s pretty clear in most cases. 
+It usually corresponds to one intuitive foot-tap.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: x    x    x   x  x      x       x  x
+vocal: I'll keep you my dir-ty lit-tle se-cret
+</code></pre></div></div>
+
+<p>A group of beats is called a measure (or, synonymously, a bar).</p>
+
+<p>Most commonly, beats are grouped in groups of 4.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: | x    x    x   x  | x      x       x  x    |
+vocal: | I'll keep you my | dir-ty lit-tle se-cret |
+</code></pre></div></div>
+
+<p>It’s rare for a hip hop song to use any grouping other than 4. 
+A standard rap line spans one single four-beat measure, which 
+is why rappers refer to lines as “bars.”</p>
+
+<p>When the beats are grouped in fours, we say a song is “in 
+4/4 time.” It’s pronounced “four-four” and it is not a fraction
+even though it looks like one.</p>
+
+<p>4/4 is an example of a “time signature.” A song’s time signature 
+determines how its rhythm will be written. The top number 
+indicates the number of beats in each measure. You can ignore 
+the bottom number for now.</p>
+
+<p>In 4/4 music with drums, it’s conventional to hit the snare on
+beats 2 and 4. So locating the snare can help you get your bearings.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: | 1    2    3   4  | 1      2       3  4    |
+snare: |      x        x  |        x          x    |
+vocal: | I'll keep you my | dir-ty lit-tle se-cret |
+</code></pre></div></div>
+
+<p>6/8 is the next most common time signature. It groups beats in sixes.
+Think of Piano Man, or the verse of Lucy In The Sky.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: | 1   2    3    4    5  6 | 1    2  3 4     5  6 |
+vocal: | Pic-ture your-self in a | boat on a river      |
+</code></pre></div></div>
+
+<p>Other time signatures are much less common, so they tickle your
+brain when you hear them. Pink Floyd’s Money is in 7/4. The main
+riff from The Ocean has seven and a half beats. The
+classic example of 5/4 is Dave Brubeck’s Take Five, but Taylor
+Swift’s Closure uses it, too.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: | 1     2     3      4   5   | 1       2   3      4   5   |
+vocal: | Yes I   got   your let-ter | Yes I'm   do - ing bet-ter |
+</code></pre></div></div>
+
+<p>Some songs use what’s called “compound meter,”
+where not every measure has the same number of beats. The verse
+of All You Need Is Love alternates between 4s and 3s. Or you
+could say it’s in sevens. The Song That Jane Likes is in 4/4 but
+it has a measure of 2 beats every now and then.</p>
+
+<p>Ultimately assigning time signatures is a judgment call based
+on what feels natural and what’s most convenient to notate.
+It’s a bit like when you’re transcribing speech and you have
+to decide where to put periods and commas. There are cases that
+could go either way but it’s usually fine. After you spend enough
+time in the domain you develop a felt sense of what’s normal.</p>
+
+<p>May you never need to notate The Crunge.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[A beat is one “pulse.” What constitutes a single pulse is somewhat subjective but it’s pretty clear in most cases. It usually corresponds to one intuitive foot-tap.]]></summary></entry></feed>
