@@ -22,7 +22,7 @@ title: Music theory from dummies
 #email: tomsegarra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Talk about. Pop music talk about.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dummies" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tom_segarra
 #github_username:  tsegarra
