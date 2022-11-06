@@ -68,7 +68,7 @@ count: 1    &   2   &   3   &   4   &   | 1   &   2   &   3   &   4   &
 vocal: I'll     keep    you     my        dir-ty  lit-tle se-     cret
 ```
 
-You can see that the first four words last for 2 eighth notes each. That's why they're quarter notes. The syllables of "dirty little" are half that length, so we write them as eighth notes.
+The first four words last 2 eighth notes each. That's why they're quarter notes. The syllables of "dirty little" are each half that length, so we write them as eighth notes.
 
 {% lilypond alt: "First 2 measures of Dirty Little Secret chorus." %}
   \relative {
@@ -80,4 +80,4 @@ You can see that the first four words last for 2 eighth notes each. That's why t
   }
 {% endlilypond %}
 
-You can see the last quarter note's stem goes up instead of down, but the direction doesn't matter. It just saves visual space to draw it that way, so the stem doesn't stick way up above the line.
+The last quarter note's stem goes up instead of down, but the direction doesn't matter. It just saves visual space to draw it that way, so the stem doesn't stick way up above the line.
