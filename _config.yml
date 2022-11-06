@@ -23,8 +23,6 @@ title: Music theory from dummies
 description: >- # this means to ignore newlines until "baseurl:"
   Talk about. Pop music talk about.
 baseurl: "/dummies" # the subpath of your site, e.g. /blog
-website: "https://tsegarra.github.io"
-basewebsite: "/dummies"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tom_segarra
 #github_username:  tsegarra
