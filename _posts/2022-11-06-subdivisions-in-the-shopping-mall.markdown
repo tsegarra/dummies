@@ -10,11 +10,10 @@ How long you hold a whole note depends on both the tempo (speed) of
 the song and its time signature. But a half note is always half as
 long as a whole note, a quarter note is half as long as that, etc.
 
-The notation works like hangman. You start with a whole note
-and then as the notes get shorter, you draw more and more extra
-stuff on them.
+The notation works like hangman: you start with a circle and then
+draw more and more extra stuff on it.
 
-<img src="/assets/images/note_values.png" 
+<img src="{{ site.baseurl }}/assets/images/note_values.png" 
 	alt="Diagram showing note values."
 	style="width: 100%; max-width: 200px;" />
 
@@ -24,7 +23,7 @@ a flag. When you have consecutive notes with flags, you connect them together
 with a straight line. Here's a diagram I stole from the real For Dummies
 website.
 
-<img src="/assets/images/beams.jpg" 
+<img src="{{ site.baseurl }}/assets/images/beams.jpg" 
 	alt="Diagram showing note values."
 	style="width: 100%; max-width: 200px;" />
 
@@ -66,7 +65,7 @@ the same way as for notes (whole rest, half rest, etc.) The symbols are
 annoying. Sometimes you can use context clues to figure out how long
 a rest is, but it's better to know them.
 
-<img src="/assets/images/rest_values.png" 
+<img src="{{ site.baseurl }}/assets/images/rest_values.png" 
 	alt="Diagram showing rest values."
 	style="width: 100%; max-width: 150px;" />
 
