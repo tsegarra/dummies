@@ -31,6 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-lilypond
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -39,6 +40,8 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+include:
+  - _img
 #
 # exclude:
 #   - .sass-cache/
