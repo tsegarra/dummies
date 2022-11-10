@@ -43,7 +43,7 @@ vocal: I'll keep you my
 
 Here's how you'd formally draw that measure. The little "c" symbol means "common time" (4/4).
 
-{% lilypond alt: "First measure of Dirty Little Secret chorus." %}
+{% lilypond alt: "First measure of Dirty Little Secret chorus." trim: true %}
   \relative {
 	\key a \major
 	e''4 d cis d
@@ -70,7 +70,7 @@ vocal: I'll     keep    you     my        dir-ty  lit-tle se-     cret
 
 The first four words last 2 eighth notes each. That's why they're quarter notes. The syllables of "dirty little" are each half that length, so we write them as eighth notes.
 
-{% lilypond alt: "First 2 measures of Dirty Little Secret chorus." %}
+{% lilypond alt: "First 2 measures of Dirty Little Secret chorus." trim: true %}
   \relative {
 	\key a \major
 	e''4 d cis d cis8 d cis d cis4 a
