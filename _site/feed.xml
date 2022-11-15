@@ -1,4 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dummies/" rel="alternate" type="text/html" /><updated>2022-11-09T20:51:18-05:00</updated><id>http://localhost:4000/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">The rest is still unwritten</title><link href="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dummies/" rel="alternate" type="text/html" /><updated>2022-11-14T23:53:07-05:00</updated><id>http://localhost:4000/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Tie your mother down</title><link href="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html" rel="alternate" type="text/html" title="Tie your mother down" /><published>2022-11-14T08:55:07-05:00</published><updated>2022-11-14T08:55:07-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html"><![CDATA[<p>There are a few common symbols that can change the written duration of a note.</p>
+
+<h1 id="dots">Dots</h1>
+
+<p>You may see a note head followed by a small dot. That’s called, <em>creatively</em>, a <strong>dotted</strong> note. A dotted note lasts 1.5 times as long as its non-dotted counterpart. E.g.: since a quarter note is one beat, a dotted quarter note is one and a half beats. A dotted eighth note is one and a half eighth notes, or three-fourths of a beat.</p>
+
+<p>Here’s an example from The Word by The Beatles:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count: 1 &amp; 2 &amp; 3 &amp; 4 &amp;     | 1 &amp; 2 &amp; 3 &amp; 4 &amp;
+lyric: So    fine    it's    sun   shine
+</code></pre></div></div>
+
+<p>The first word, “so,” lasts for the count “1 and 2,” but doesn’t continue to the second “and.” That’s a duration of three eighth notes, or equivalently one and a half quarter notes. So you can write it as a dotted quarter note.</p>
+
+<p><img src="/dummies/lilypond_files/31d4ff22d11ca92f00aeb13ce2529557.svg" alt="Dotted notes from The Word by The Beatles." class="" style="" /></p>
+
+<p>Rests can be dotted, too. This measure from Dirty Little Secret starts with a dotted quarter rest (1.5 beats).</p>
+
+<p><img src="/dummies/lilypond_files/a2fb2e4ec752aa291f6972e3d7f44835.svg" alt="Dotted rests in the verse of Dirty Little Secret." class="" style="" /></p>
+
+<p>Some of these notes extend across the measure boundaries. That’s what those curved lines are for.</p>
+
+<h1 id="ties">Ties</h1>
+
+<p>If you connect two note heads with an arc, the arc is called a <strong>tie</strong>. It’s played as a single note with the combined durations of the notes it connects. So if you tie together two eighth notes, they sound like a single quarter note. Here we tie an eighth note to a quarter note:</p>
+
+<p><img src="/dummies/lilypond_files/9d420fd512daff9c5641ede7d8cf1da9.svg" alt="Bars from Dirty Little Secret illustrating a tie." class="" style="" /></p>
+
+<p>A measure boundary (bar line) is the most common place to use a tie.</p>
+
+<h1 id="things-wouldnt-be-so-confused">Things wouldn’t be so confused</h1>
+
+<p>Let’s walk through the first two measures of the chorus of Linger by The Cranberries.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> beat: 1   e   &amp;   a   2   e   &amp;   a   3   e   &amp;   a   4   e   &amp;   a   |   1   e   &amp;   a
+vocal:                         but I'm i-          in          so          deep
+</code></pre></div></div>
+
+<p>Try counting this out slowly. Usually I tap each sixteenth note on my fingers. I tap my index finger for each numeral, middle finger for “e,” ring finger for “and,” and pinky for “a.” Index, middle, ring, pinky. Over and over. Each tap is a sixteenth note and that helps me figure out where each note should be placed.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 1   e   &amp;   a   2   e   &amp;   a   3   e   &amp;   a   4   e   &amp;   a   |   1   e   &amp;   a
+finger: 1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   |   1   2   3   4
+linger:                         but I'm i-          in          so          deep
+</code></pre></div></div>
+
+<p>There aren’t any notes sung until the second “&amp;.” So we start with a rest. It lasts for the full first beat, and half of the second beat. 1.5 beats = a dotted quarter rest.</p>
+
+<p><img src="/dummies/lilypond_files/e4b2133acf123c6e81c2ed6d7cbd784d.svg" alt="A dotted quarter rest." class="" style="" /></p>
+
+<p>The first two words, “but I’m,” are each one finger-tap, or one sixteenth note. Picturesque.</p>
+
+<p><img src="/dummies/lilypond_files/3f75fde363b1cfbeeb4ac4f0d5d4d835.svg" alt="First two notes of Linger." class="" style="" /></p>
+
+<p>The next word, “in,” is sung with two syllables. The first syllable lasts three finger-taps, which is three sixteenth notes.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
+finger: 1   2   3   4   1   2   3   4
+linger: i-          in          so   
+</code></pre></div></div>
+
+<p>If it lasted <em>two</em> sixteenth notes, it’d be an eighth note. If it lasted <em>four</em> sixteenth notes, it’d be a quarter note. But it’s in between. It’s 1.5 eighth notes: a dotted eighth.</p>
+
+<p><img src="/dummies/lilypond_files/f44f8e76a9fec4c72d232dd3684deafe.svg" alt="First 3 notes of Linger." class="" style="" /></p>
+
+<p>The second syllable of “in” lasts the same amount of time.</p>
+
+<p><img src="/dummies/lilypond_files/547ff8db025612b40eb8f7c98aa7d09c.svg" alt="First 4 notes of Linger." class="" style="" /></p>
+
+<p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. We can connect this non-dotted eighth note with the previous two dotted ones.</p>
+
+<p><img src="/dummies/lilypond_files/a9d970f179120556617193666e05e9d2.svg" alt="First measure of Linger chorus." class="" style="" /></p>
+
+<p>The word “deep” lasts an entire measure by itself, so we draw a whole note.</p>
+
+<p><img src="/dummies/lilypond_files/bdfb26983406b2a920b153a1599299a5.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
+
+<p>Ain’t that satisfying?</p>
+
+<h1 id="its-never-quite-as-it-seems">It’s never quite as it seems</h1>
+
+<p>One last thing. Advanced extra credit addendum.</p>
+
+<p>What’s shown above is a perfectly valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn’t a note that starts on beat 4. The second syllable of “in” hits right before beat 4, and “so” hits right after, with “in” straddling the beat boundary.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
+finger: 1   2   3   4   1   2   3   4
+linger: i-          in          so   
+</code></pre></div></div>
+
+<p>What we can do is break up this troublesome second syllable of “in.” We can separate it into the part before the downbeat (a sixteenth note), and the part on/after (an eighth note), and then connect them with a tie.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                    this part is before the downbeat
+                    |
+                    *
+  beat: 3   e   &amp;   a   4   e   &amp;   a
+finger: 1   2   3   4   1   2   3   4
+linger: i-          in          so   
+                        *   *
+                        |   |
+                        ------------ this part is on/after the downbeat
+</code></pre></div></div>
+
+<p>Check it out:</p>
+
+<p><img src="/dummies/lilypond_files/329b64a5bb97a546aa84bba3c7bba98a.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
+
+<p>Now the third and fourth beats are neatly visually separated. With practice you’ll find that really helps readability.</p>
+
+<p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
 
 <p><img src="/dummies/lilypond_files/d0055b815d31798f4035d0496ede7ebd.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
