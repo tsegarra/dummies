@@ -260,7 +260,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
+       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
        id="polygon84" />
   </g>
   <g
@@ -272,7 +272,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
+       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
        id="polygon88" />
   </g>
   <a
@@ -308,7 +308,7 @@ tspan { white-space: pre; }
     </g>
   </a>
   <g
-     transform="translate(22.556195,0.66057614)"
+     transform="translate(22.556195,0.6605757)"
      id="g108">
     <polygon
        stroke-linejoin="round"
@@ -316,7 +316,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="8.252,0.686 8.252,1.014 0.04,0.164 0.04,-0.164 "
+       points="0.04,0.164 0.04,-0.164 8.252,0.686 8.252,1.014 "
        id="polygon106" />
   </g>
   <a

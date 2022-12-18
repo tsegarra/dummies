@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dummies/" rel="alternate" type="text/html" /><updated>2022-11-14T23:53:07-05:00</updated><id>http://localhost:4000/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Tie your mother down</title><link href="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html" rel="alternate" type="text/html" title="Tie your mother down" /><published>2022-11-14T08:55:07-05:00</published><updated>2022-11-14T08:55:07-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html"><![CDATA[<p>There are a few common symbols that can change the written duration of a note.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2022-12-18T17:42:35-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Ya gotta look sharp</title><link href="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html" rel="alternate" type="text/html" title="Ya gotta look sharp" /><published>2022-12-18T14:30:12-05:00</published><updated>2022-12-18T14:30:12-05:00</updated><id>/dummies/melody/2022/12/18/ya-gotta-look-sharp</id><content type="html" xml:base="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html"><![CDATA[<p>So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.</p>
+
+<p>Sound is caused by waves of vibrating air. If you measure how fast the air wave is vibrating (how many vibrations per second), that’s called its <strong>frequency</strong> (in Hertz).</p>
+
+<p>If you play the note A in the middle of a piano, for example, it produces a sound wave with a frequency of 440 Hz. Different keys produce waves with different frequencies, which is why they sound different. As you move from left to right on a piano, the note gets higher in pitch, and the frequencies correspondingly increase.</p>
+
+<p>Pitches are identified by letters: A, B, C, D, E, F, and G. After G comes A again, and so on. We draw them on a set of five parallel horizontal lines called the <strong>staff</strong>.</p>
+
+<p><img src="/dummies/assets/images/egbdf.png" alt="Staff with labeled pitches." style="width: 100%; max-width: 200px;" /></p>
+
+<p>Mnemonics are your friend. The spaces between the lines, from bottom to top, spell FACE. The lines themselves from bottom to top represent EGBDF (most commonly “Every Good Boy Deserves Fudge”).</p>
+
+<p>On the piano, the letters A to G represent the white notes. They’re conventionally ordered starting on C: C, D, E, F, G, A, B, C.</p>
+
+<p><img src="/dummies/assets/images/pianokeys.png" alt="Labeled piano keys." style="width: 100%; max-width: 200px;" /></p>
+
+<p>Some (but not all!) adjacent pairs of white keys have a black key between them. Each black key’s note has two names. For example, the note between C and D can be called “C-sharp” (notated C♯) or “D-flat” (notated D♭). Sharp means higher (e.g., C♯ is higher than C) and flat means lower.</p>
+
+<p>On the staff, we put sharp or flat signs to the left of the note head. So this is C-sharp:</p>
+
+<p><img src="/dummies/lilypond_files/8f3efc314e9ced1e511b1a29025ca578.svg" alt="C-sharp." class="" style="" /></p>
+
+<p>These sharp and flat symbols are called <strong>accidentals</strong>.</p>
+
+<p>An accidental sign modifies all instances of one note until the end of the measure. For example, in the first line of John Mayer’s On The Way Home:</p>
+
+<p><img src="/dummies/lilypond_files/30991b1a0616e1baf3e91820d44b41a5.svg" alt="First measure of On the Way Home by John Mayer." class="" style="" /></p>
+
+<p>Here the first F (on the word “I”) is sharped. So you play F-sharp. Then the second note (“and”) is another F without a sharp symbol. You play F-sharp there, too, since sharp signs last until the end of the measure. Same for the first syllable of “architect.” The other non-F notes are not sharp.</p>
+
+<p>One last symbol to know is ♮, pronounced “natural.” So C♮ is “C natural,” and it refers to a regular non-flat non-sharp C.</p>
+
+<p>Why would you need to use a natural sign? Look at this measure from When I’m Sixty-Four:</p>
+
+<p><img src="/dummies/lilypond_files/48a4d25f4f9bdbba42147daa49a270c6.svg" alt="Excerpt from When I'm Sixty-Four." class="" style="" /></p>
+
+<p>The first D (on “day”) is flat, and the second D (“greet”) is not flat. Without the natural sign, both Ds would be assumed flat.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.]]></summary></entry><entry><title type="html">Tie your mother down</title><link href="/dummies/rhythm/2022/11/14/tie-your-mother-down.html" rel="alternate" type="text/html" title="Tie your mother down" /><published>2022-11-14T08:55:07-05:00</published><updated>2022-11-14T08:55:07-05:00</updated><id>/dummies/rhythm/2022/11/14/tie-your-mother-down</id><content type="html" xml:base="/dummies/rhythm/2022/11/14/tie-your-mother-down.html"><![CDATA[<p>There are a few common symbols that can change the written duration of a note.</p>
 
 <h1 id="dots">Dots</h1>
 
@@ -106,7 +142,7 @@ linger: i-          in          so
 
 <p>Now the third and fourth beats are neatly visually separated. With practice you’ll find that really helps readability.</p>
 
-<p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
+<p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
 
 <p><img src="/dummies/lilypond_files/d0055b815d31798f4035d0496ede7ebd.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
@@ -134,7 +170,7 @@ vocal: |                 |     Don't   tell a-ny   |
 
 <p>Try tapping out the whole thing. It takes some mental effort at first but once it becomes automatic it’s very fun.</p>
 
-<p><img src="/dummies/lilypond_files/c7ea4d05e744416296015a5641bc172e.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.]]></summary></entry><entry><title type="html">They hold no quarter</title><link href="http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter.html" rel="alternate" type="text/html" title="They hold no quarter" /><published>2022-11-06T10:52:58-05:00</published><updated>2022-11-06T10:52:58-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter.html"><![CDATA[<p>When you’re transcribing music, you need to express how long to hold
+<p><img src="/dummies/lilypond_files/c7ea4d05e744416296015a5641bc172e.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.]]></summary></entry><entry><title type="html">They hold no quarter</title><link href="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html" rel="alternate" type="text/html" title="They hold no quarter" /><published>2022-11-06T10:52:58-05:00</published><updated>2022-11-06T10:52:58-05:00</updated><id>/dummies/rhythm/2022/11/06/they-hold-no-quarter</id><content type="html" xml:base="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html"><![CDATA[<p>When you’re transcribing music, you need to express how long to hold
 each note. That’s what rhythm notation is for.</p>
 
 <p>The basic unit of note duration is called a “whole note.” The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.</p>
@@ -191,7 +227,7 @@ vocal: I'll     keep    you     my        dir-ty  lit-tle se-     cret
 
 <p><img src="/dummies/lilypond_files/d0055b815d31798f4035d0496ede7ebd.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
-<p>The last quarter note’s stem goes up instead of down, but the direction doesn’t matter. It just saves visual space to draw it that way, so the stem doesn’t stick way up above the line.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[When you’re transcribing music, you need to express how long to hold each note. That’s what rhythm notation is for.]]></summary></entry><entry><title type="html">We got the beat</title><link href="http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat.html" rel="alternate" type="text/html" title="We got the beat" /><published>2022-11-03T10:37:03-04:00</published><updated>2022-11-03T10:37:03-04:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat.html"><![CDATA[<p>A beat is one “pulse.” What constitutes a single pulse is 
+<p>The last quarter note’s stem goes up instead of down, but the direction doesn’t matter. It just saves visual space to draw it that way, so the stem doesn’t stick way up above the line.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[When you’re transcribing music, you need to express how long to hold each note. That’s what rhythm notation is for.]]></summary></entry><entry><title type="html">We got the beat</title><link href="/dummies/rhythm/2022/11/03/we-got-the-beat.html" rel="alternate" type="text/html" title="We got the beat" /><published>2022-11-03T10:37:03-04:00</published><updated>2022-11-03T10:37:03-04:00</updated><id>/dummies/rhythm/2022/11/03/we-got-the-beat</id><content type="html" xml:base="/dummies/rhythm/2022/11/03/we-got-the-beat.html"><![CDATA[<p>A beat is one “pulse.” What constitutes a single pulse is 
 somewhat subjective but it’s pretty clear in most cases. 
 It usually corresponds to one intuitive foot-tap.</p>
 

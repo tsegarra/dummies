@@ -236,7 +236,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
+       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
        id="polygon78" />
   </g>
   <g
@@ -248,7 +248,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
+       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
        id="polygon82" />
   </g>
   <a
