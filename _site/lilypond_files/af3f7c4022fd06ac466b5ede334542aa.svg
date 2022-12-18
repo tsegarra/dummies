@@ -208,7 +208,7 @@ tspan { white-space: pre; }
     </g>
   </a>
   <g
-     transform="translate(27.10925,0.69335242)"
+     transform="translate(27.10925,0.69335231)"
      id="g68">
     <polygon
        stroke-linejoin="round"
@@ -216,7 +216,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 2.3907,0.1491 2.3907,0.4771 "
+       points="2.3907,0.1491 2.3907,0.4771 0.04,0.164 0.04,-0.164 "
        id="polygon66" />
   </g>
   <a

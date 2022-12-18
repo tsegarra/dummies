@@ -236,7 +236,7 @@ tspan { white-space: pre; }
        id="rect78" />
   </g>
   <g
-     transform="translate(26.944558,0.70057606)"
+     transform="translate(26.944558,0.70057562)"
      id="g84">
     <path
        transform="scale(0.0034,-0.0034)"
@@ -271,7 +271,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
+       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
        id="polygon92" />
   </g>
   <g
@@ -283,7 +283,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="3.2306,-0.164 3.2306,0.164 0.04,0.164 0.04,-0.164 "
+       points="0.04,0.164 0.04,-0.164 3.2306,-0.164 3.2306,0.164 "
        id="polygon96" />
   </g>
   <a
