@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2022-12-18T17:42:35-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Ya gotta look sharp</title><link href="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html" rel="alternate" type="text/html" title="Ya gotta look sharp" /><published>2022-12-18T14:30:12-05:00</published><updated>2022-12-18T14:30:12-05:00</updated><id>/dummies/melody/2022/12/18/ya-gotta-look-sharp</id><content type="html" xml:base="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html"><![CDATA[<p>So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2022-12-18T20:43:06-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Ya gotta look sharp</title><link href="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html" rel="alternate" type="text/html" title="Ya gotta look sharp" /><published>2022-12-18T14:30:12-05:00</published><updated>2022-12-18T14:30:12-05:00</updated><id>/dummies/melody/2022/12/18/ya-gotta-look-sharp</id><content type="html" xml:base="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html"><![CDATA[<p>So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.</p>
 
 <p>Sound is caused by waves of vibrating air. If you measure how fast the air wave is vibrating (how many vibrations per second), that’s called its <strong>frequency</strong> (in Hertz).</p>
 
@@ -8,7 +8,7 @@
 
 <p><img src="/dummies/assets/images/egbdf.png" alt="Staff with labeled pitches." style="width: 100%; max-width: 200px;" /></p>
 
-<p>Mnemonics are your friend. The spaces between the lines, from bottom to top, spell FACE. The lines themselves from bottom to top represent EGBDF (most commonly “Every Good Boy Deserves Fudge”).</p>
+<p>Mnemonics are your friend. The spaces between the lines, from bottom to top, spell FACE. The lines themselves from bottom to top are E-G-B-D-F (most commonly “Every Good Boy Deserves Fudge”).</p>
 
 <p>On the piano, the letters A to G represent the white notes. They’re conventionally ordered starting on C: C, D, E, F, G, A, B, C.</p>
 
@@ -22,11 +22,11 @@
 
 <p>These sharp and flat symbols are called <strong>accidentals</strong>.</p>
 
-<p>An accidental sign modifies all instances of one note until the end of the measure. For example, in the first line of John Mayer’s On The Way Home:</p>
+<p>An accidental sign modifies all instances of one note until the end of the measure. For example, in the first line of John Mayer’s Face To Call Home:</p>
 
-<p><img src="/dummies/lilypond_files/30991b1a0616e1baf3e91820d44b41a5.svg" alt="First measure of On the Way Home by John Mayer." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/30991b1a0616e1baf3e91820d44b41a5.svg" alt="First measure of Face to Call Home by John Mayer." class="" style="" /></p>
 
-<p>Here the first F (on the word “I”) is sharped. So you play F-sharp. Then the second note (“and”) is another F without a sharp symbol. You play F-sharp there, too, since sharp signs last until the end of the measure. Same for the first syllable of “architect.” The other non-F notes are not sharp.</p>
+<p>Here the first F (on the word “I”) is sharped. So you play F-sharp. Then the second note (“am”) is another F without a sharp symbol. You play F-sharp there, too, since sharp signs last until the end of the measure. Same for the first syllable of “architect.” The other non-F notes are not sharp.</p>
 
 <p>One last symbol to know is ♮, pronounced “natural.” So C♮ is “C natural,” and it refers to a regular non-flat non-sharp C.</p>
 
