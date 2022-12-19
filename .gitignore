@@ -4,3 +4,4 @@
 vendor
 *.midi
 *.ly
+/lilypond_files/*
