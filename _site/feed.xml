@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2022-12-18T20:43:06-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Ya gotta look sharp</title><link href="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html" rel="alternate" type="text/html" title="Ya gotta look sharp" /><published>2022-12-18T14:30:12-05:00</published><updated>2022-12-18T14:30:12-05:00</updated><id>/dummies/melody/2022/12/18/ya-gotta-look-sharp</id><content type="html" xml:base="/dummies/melody/2022/12/18/ya-gotta-look-sharp.html"><![CDATA[<p>So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/dummies/" rel="alternate" type="text/html" /><updated>2022-12-22T12:26:39-05:00</updated><id>http://localhost:4000/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">Ground control to major</title><link href="http://localhost:4000/dummies/melody/2022/12/22/scales.html" rel="alternate" type="text/html" title="Ground control to major" /><published>2022-12-22T09:11:04-05:00</published><updated>2022-12-22T09:11:04-05:00</updated><id>http://localhost:4000/dummies/melody/2022/12/22/scales</id><content type="html" xml:base="http://localhost:4000/dummies/melody/2022/12/22/scales.html"><![CDATA[<p>Most Western music is made of twelve notes: C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, and B.</p>
+
+<p>The distance between two adjacent notes is called a half step. So it’s a half step between C and C#, or between E and F, or between B and C.</p>
+
+<p>Two half steps make a whole step. A whole step is the distance between C and D, or between Eb and F.</p>
+
+<h1 id="the-major-scale">The major scale</h1>
+
+<p>Let’s use “W” to represent a whole step, and “H” to represent a half step. If you start on any pitch and play the ascending sequence <strong>W-W-H-W-W-W-H</strong>, that’s called the <strong>major scale</strong>, and it’s a very important pattern.</p>
+
+<p>Take C for example. Make C the first note.</p>
+
+<p><img src="/dummies/lilypond_files/77365305af9e4978a46aedd932c60419_trimmed.svg" alt="The note C written on a staff." class="" style="" /></p>
+
+<p>If you go up a whole step, then you skip C# and go straight to D.</p>
+
+<p><img src="/dummies/lilypond_files/b759e5c6378bc15ef5e2d16b1e9d0682_trimmed.svg" alt="The notes C and D written on a staff." class="" style="" /></p>
+
+<p>Then the pattern calls for another whole step. That takes us past D# to E.</p>
+
+<p><img src="/dummies/lilypond_files/5c33e0d54f8044771e6324a23e372cb1_trimmed.svg" alt="The notes C, D, and E written on a staff." class="" style="" /></p>
+
+<p>Then we reach the first half step, which goes from E to F. (Remember that there’s no such note as E#.)</p>
+
+<p><img src="/dummies/lilypond_files/84288da79c299ca55ac7d67e5b45dd20_trimmed.svg" alt="The notes C, D, E, and F written on a staff." class="" style="" /></p>
+
+<p>You get the idea. Whole-whole-half-whole-whole-whole-half. You end up with C-D-E-F-G-A-B-C. And since we started on C, that’s called the C major scale.</p>
+
+<p><img src="/dummies/lilypond_files/f844a378dcb2b1ba671d28c7197be0fb_trimmed.svg" alt="The C major scale." class="" style="" /></p>
+
+<p>If we started on G instead, we’d get G-A-B-C-D-E-F#-G. That’s the G major scale.</p>
+
+<p><img src="/dummies/lilypond_files/80f7fb1e75d69fbc5d3be7fc8176e898_trimmed.svg" alt="The G major scale." class="" style="" /></p>
+
+<p>Later I’ll explain more thoroughly what it means to say a song is in a certain <strong>key</strong>. But for now I’ll just point out that songs in the key of C major, for example, tend primarily to use notes from the C major scale. Like this one:</p>
+
+<p><img src="/dummies/lilypond_files/c29df8fa9a2f6f8fa6131570a155d56c_trimmed.svg" alt="Prechorus of Don't Fear the Reaper." class="" style="" /></p>
+
+<p>Songs in the key of G major (for short, “songs in G”) likewise use notes from the G major scale. Note specifically the F# instead of F.</p>
+
+<p><img src="/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5_trimmed.svg" alt="Prechorus of Why Georgia." class="" style="" /></p>
+
+<p>As an exercise, try to work out which notes are in the D major scale.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[Most Western music is made of twelve notes: C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, and B.]]></summary></entry><entry><title type="html">Ya gotta look sharp</title><link href="http://localhost:4000/dummies/melody/2022/12/18/ya-gotta-look-sharp.html" rel="alternate" type="text/html" title="Ya gotta look sharp" /><published>2022-12-18T14:30:12-05:00</published><updated>2022-12-18T14:30:12-05:00</updated><id>http://localhost:4000/dummies/melody/2022/12/18/ya-gotta-look-sharp</id><content type="html" xml:base="http://localhost:4000/dummies/melody/2022/12/18/ya-gotta-look-sharp.html"><![CDATA[<p>So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.</p>
 
 <p>Sound is caused by waves of vibrating air. If you measure how fast the air wave is vibrating (how many vibrations per second), that’s called its <strong>frequency</strong> (in Hertz).</p>
 
@@ -18,13 +60,13 @@
 
 <p>On the staff, we put sharp or flat signs to the left of the note head. So this is C-sharp:</p>
 
-<p><img src="/dummies/lilypond_files/8f3efc314e9ced1e511b1a29025ca578.svg" alt="C-sharp." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/555f79d00b6293d6ed0eac9757f04126_trimmed.svg" alt="C-sharp." class="" style="" /></p>
 
 <p>These sharp and flat symbols are called <strong>accidentals</strong>.</p>
 
 <p>An accidental sign modifies all instances of one note until the end of the measure. For example, in the first line of John Mayer’s Face To Call Home:</p>
 
-<p><img src="/dummies/lilypond_files/30991b1a0616e1baf3e91820d44b41a5.svg" alt="First measure of Face to Call Home by John Mayer." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/897c5cf02d431ec847bee4a83fc88bfe_trimmed.svg" alt="First measure of Face to Call Home by John Mayer." class="" style="" /></p>
 
 <p>Here the first F (on the word “I”) is sharped. So you play F-sharp. Then the second note (“am”) is another F without a sharp symbol. You play F-sharp there, too, since sharp signs last until the end of the measure. Same for the first syllable of “architect.” The other non-F notes are not sharp.</p>
 
@@ -32,9 +74,9 @@
 
 <p>Why would you need to use a natural sign? Look at this measure from When I’m Sixty-Four:</p>
 
-<p><img src="/dummies/lilypond_files/48a4d25f4f9bdbba42147daa49a270c6.svg" alt="Excerpt from When I'm Sixty-Four." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/c2d154c958248797f42fc13f4ff783b1_trimmed.svg" alt="Excerpt from When I'm Sixty-Four." class="" style="" /></p>
 
-<p>The first D (on “day”) is flat, and the second D (“greet”) is not flat. Without the natural sign, both Ds would be assumed flat.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.]]></summary></entry><entry><title type="html">Tie your mother down</title><link href="/dummies/rhythm/2022/11/14/tie-your-mother-down.html" rel="alternate" type="text/html" title="Tie your mother down" /><published>2022-11-14T08:55:07-05:00</published><updated>2022-11-14T08:55:07-05:00</updated><id>/dummies/rhythm/2022/11/14/tie-your-mother-down</id><content type="html" xml:base="/dummies/rhythm/2022/11/14/tie-your-mother-down.html"><![CDATA[<p>There are a few common symbols that can change the written duration of a note.</p>
+<p>The first D (on “day”) is flat, and the second D (“greet”) is not flat. Without the natural sign, both Ds would be assumed flat.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[So far we’ve focused exclusively on rhythm, or how notes are arranged in time. We haven’t talked about pitch, which is how high or low a note sounds.]]></summary></entry><entry><title type="html">Tie your mother down</title><link href="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html" rel="alternate" type="text/html" title="Tie your mother down" /><published>2022-11-14T08:55:07-05:00</published><updated>2022-11-14T08:55:07-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/14/tie-your-mother-down.html"><![CDATA[<p>There are a few common symbols that can change the written duration of a note.</p>
 
 <h1 id="dots">Dots</h1>
 
@@ -48,11 +90,11 @@ lyric: So    fine    it's    sun   shine
 
 <p>The first word, “so,” lasts for the count “1 and 2,” but doesn’t continue to the second “and.” That’s a duration of three eighth notes, or equivalently one and a half quarter notes. So you can write it as a dotted quarter note.</p>
 
-<p><img src="/dummies/lilypond_files/31d4ff22d11ca92f00aeb13ce2529557.svg" alt="Dotted notes from The Word by The Beatles." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/47f96ec82efc1a6cad4ef8b10f649950_trimmed.svg" alt="Dotted notes from The Word by The Beatles." class="" style="" /></p>
 
 <p>Rests can be dotted, too. This measure from Dirty Little Secret starts with a dotted quarter rest (1.5 beats).</p>
 
-<p><img src="/dummies/lilypond_files/a2fb2e4ec752aa291f6972e3d7f44835.svg" alt="Dotted rests in the verse of Dirty Little Secret." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/fe62f71b3c751cd6f004e696019d3fdb_trimmed.svg" alt="Dotted rests in the verse of Dirty Little Secret." class="" style="" /></p>
 
 <p>Some of these notes extend across the measure boundaries. That’s what those curved lines are for.</p>
 
@@ -60,7 +102,7 @@ lyric: So    fine    it's    sun   shine
 
 <p>If you connect two note heads with an arc, the arc is called a <strong>tie</strong>. It’s played as a single note with the combined durations of the notes it connects. So if you tie together two eighth notes, they sound like a single quarter note. Here we tie an eighth note to a quarter note:</p>
 
-<p><img src="/dummies/lilypond_files/9d420fd512daff9c5641ede7d8cf1da9.svg" alt="Bars from Dirty Little Secret illustrating a tie." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/2e33ab782b69fb9d98a0fba9b38c6de5_trimmed.svg" alt="Bars from Dirty Little Secret illustrating a tie." class="" style="" /></p>
 
 <p>A measure boundary (bar line) is the most common place to use a tie.</p>
 
@@ -81,11 +123,11 @@ linger:                         but I'm i-          in          so          deep
 
 <p>There aren’t any notes sung until the second “&amp;.” So we start with a rest. It lasts for the full first beat, and half of the second beat. 1.5 beats = a dotted quarter rest.</p>
 
-<p><img src="/dummies/lilypond_files/e4b2133acf123c6e81c2ed6d7cbd784d.svg" alt="A dotted quarter rest." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/4a49e8b63c3b098819f3cd2c6f046edc_trimmed.svg" alt="A dotted quarter rest." class="" style="" /></p>
 
 <p>The first two words, “but I’m,” are each one finger-tap, or one sixteenth note. Picturesque.</p>
 
-<p><img src="/dummies/lilypond_files/3f75fde363b1cfbeeb4ac4f0d5d4d835.svg" alt="First two notes of Linger." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/99e6d46349299f37c44eafc674bd7e5f_trimmed.svg" alt="First two notes of Linger." class="" style="" /></p>
 
 <p>The next word, “in,” is sung with two syllables. The first syllable lasts three finger-taps, which is three sixteenth notes.</p>
 
@@ -96,19 +138,19 @@ linger: i-          in          so
 
 <p>If it lasted <em>two</em> sixteenth notes, it’d be an eighth note. If it lasted <em>four</em> sixteenth notes, it’d be a quarter note. But it’s in between. It’s 1.5 eighth notes: a dotted eighth.</p>
 
-<p><img src="/dummies/lilypond_files/f44f8e76a9fec4c72d232dd3684deafe.svg" alt="First 3 notes of Linger." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/9efc556349ca886fcfab5fc9c9630667_trimmed.svg" alt="First 3 notes of Linger." class="" style="" /></p>
 
 <p>The second syllable of “in” lasts the same amount of time.</p>
 
-<p><img src="/dummies/lilypond_files/547ff8db025612b40eb8f7c98aa7d09c.svg" alt="First 4 notes of Linger." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/4acb0399224d9484393d7d21a5b5484b_trimmed.svg" alt="First 4 notes of Linger." class="" style="" /></p>
 
 <p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. We can connect this non-dotted eighth note with the previous two dotted ones.</p>
 
-<p><img src="/dummies/lilypond_files/a9d970f179120556617193666e05e9d2.svg" alt="First measure of Linger chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6_trimmed.svg" alt="First measure of Linger chorus." class="" style="" /></p>
 
 <p>The word “deep” lasts an entire measure by itself, so we draw a whole note.</p>
 
-<p><img src="/dummies/lilypond_files/bdfb26983406b2a920b153a1599299a5.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/c3f3482fb50c1e10c0fc795de9c3d78c_trimmed.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
 
 <p>Ain’t that satisfying?</p>
 
@@ -138,13 +180,13 @@ linger: i-          in          so
 
 <p>Check it out:</p>
 
-<p><img src="/dummies/lilypond_files/329b64a5bb97a546aa84bba3c7bba98a.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/83c5aa88cfb6b3e2b938b68eb82f25d3_trimmed.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
 
 <p>Now the third and fourth beats are neatly visually separated. With practice you’ll find that really helps readability.</p>
 
-<p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
+<p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
 
-<p><img src="/dummies/lilypond_files/d0055b815d31798f4035d0496ede7ebd.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/b8d09fe6c75347b1c1a843abdc67651f_trimmed.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
 <p>The next measure has a pause before he starts singing again. That’s called a rest.</p>
 
@@ -166,11 +208,11 @@ vocal: |                 |     Don't   tell a-ny   |
 
 <p>Or, nicely typeset:</p>
 
-<p><img src="/dummies/lilypond_files/af3f7c4022fd06ac466b5ede334542aa.svg" alt="Next 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/0d79c49d243ce766e15ed29e77c2a64f_trimmed.svg" alt="Next 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
 <p>Try tapping out the whole thing. It takes some mental effort at first but once it becomes automatic it’s very fun.</p>
 
-<p><img src="/dummies/lilypond_files/c7ea4d05e744416296015a5641bc172e.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.]]></summary></entry><entry><title type="html">They hold no quarter</title><link href="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html" rel="alternate" type="text/html" title="They hold no quarter" /><published>2022-11-06T10:52:58-05:00</published><updated>2022-11-06T10:52:58-05:00</updated><id>/dummies/rhythm/2022/11/06/they-hold-no-quarter</id><content type="html" xml:base="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html"><![CDATA[<p>When you’re transcribing music, you need to express how long to hold
+<p><img src="/dummies/lilypond_files/58eeba7afc1f8bf9f12a41df0374ef05_trimmed.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.]]></summary></entry><entry><title type="html">They hold no quarter</title><link href="http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter.html" rel="alternate" type="text/html" title="They hold no quarter" /><published>2022-11-06T10:52:58-05:00</published><updated>2022-11-06T10:52:58-05:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/06/they-hold-no-quarter.html"><![CDATA[<p>When you’re transcribing music, you need to express how long to hold
 each note. That’s what rhythm notation is for.</p>
 
 <p>The basic unit of note duration is called a “whole note.” The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.</p>
@@ -205,7 +247,7 @@ vocal: I'll keep you my
 
 <p>Here’s how you’d formally draw that measure. The little “c” symbol means “common time” (4/4).</p>
 
-<p><img src="/dummies/lilypond_files/20d9593b349218e9dbed29e99e9801eb.svg" alt="First measure of Dirty Little Secret chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/4f70a80da21584228a759b4d1557dfb8_trimmed.svg" alt="First measure of Dirty Little Secret chorus." class="" style="" /></p>
 
 <p>A quarter note lasts for one beat, so each note in this measure is a quarter note.</p>
 
@@ -225,9 +267,9 @@ vocal: I'll     keep    you     my        dir-ty  lit-tle se-     cret
 
 <p>The first four words last 2 eighth notes each. That’s why they’re quarter notes. The syllables of “dirty little” are each half that length, so we write them as eighth notes.</p>
 
-<p><img src="/dummies/lilypond_files/d0055b815d31798f4035d0496ede7ebd.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
+<p><img src="/dummies/lilypond_files/b8d09fe6c75347b1c1a843abdc67651f_trimmed.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
-<p>The last quarter note’s stem goes up instead of down, but the direction doesn’t matter. It just saves visual space to draw it that way, so the stem doesn’t stick way up above the line.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[When you’re transcribing music, you need to express how long to hold each note. That’s what rhythm notation is for.]]></summary></entry><entry><title type="html">We got the beat</title><link href="/dummies/rhythm/2022/11/03/we-got-the-beat.html" rel="alternate" type="text/html" title="We got the beat" /><published>2022-11-03T10:37:03-04:00</published><updated>2022-11-03T10:37:03-04:00</updated><id>/dummies/rhythm/2022/11/03/we-got-the-beat</id><content type="html" xml:base="/dummies/rhythm/2022/11/03/we-got-the-beat.html"><![CDATA[<p>A beat is one “pulse.” What constitutes a single pulse is 
+<p>The last quarter note’s stem goes up instead of down, but the direction doesn’t matter. It just saves visual space to draw it that way, so the stem doesn’t stick way up above the line.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[When you’re transcribing music, you need to express how long to hold each note. That’s what rhythm notation is for.]]></summary></entry><entry><title type="html">We got the beat</title><link href="http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat.html" rel="alternate" type="text/html" title="We got the beat" /><published>2022-11-03T10:37:03-04:00</published><updated>2022-11-03T10:37:03-04:00</updated><id>http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat</id><content type="html" xml:base="http://localhost:4000/dummies/rhythm/2022/11/03/we-got-the-beat.html"><![CDATA[<p>A beat is one “pulse.” What constitutes a single pulse is 
 somewhat subjective but it’s pretty clear in most cases. 
 It usually corresponds to one intuitive foot-tap.</p>
 

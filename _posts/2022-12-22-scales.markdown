@@ -1,0 +1,96 @@
+---
+layout: post
+title: Ground control to major
+date:   2022-12-22 10:11:04 -0400
+categories: melody
+---
+
+Most Western music is made of twelve notes: C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, and B.
+
+The distance between two adjacent notes is called a half step. So it's a half step between C and C#, or between E and F, or between B and C.
+
+Two half steps make a whole step. A whole step is the distance between C and D, or between Eb and F.
+
+# The major scale
+
+Let's use "W" to represent a whole step, and "H" to represent a half step. If you start on any pitch and play the ascending sequence **W-W-H-W-W-W-H**, that's called the **major scale**, and it's a very important pattern. 
+
+Take C for example. Make C the first note.
+
+{% lilypond alt: "The note C written on a staff." trim: true %}
+  \relative {
+      \key c \major
+	c''4
+  } 
+{% endlilypond %}
+
+If you go up a whole step, then you skip C# and go straight to D.
+
+{% lilypond alt: "The notes C and D written on a staff." trim: true %}
+  \relative {
+      \key c \major
+	c''4 d
+  } 
+{% endlilypond %}
+
+Then the pattern calls for another whole step. That takes us past D# to E.
+
+{% lilypond alt: "The notes C, D, and E written on a staff." trim: true %}
+  \relative {
+      \key c \major
+	c''4 d e
+  } 
+{% endlilypond %}
+
+Then we reach the first half step, which goes from E to F. (Remember that there's no such note as E#.)
+
+{% lilypond alt: "The notes C, D, E, and F written on a staff." trim: true %}
+  \relative {
+      \key c \major
+	c''4 d e f
+  } 
+{% endlilypond %}
+
+You get the idea. Whole-whole-half-whole-whole-whole-half. You end up with C-D-E-F-G-A-B-C. And since we started on C, that's called the C major scale.
+
+{% lilypond alt: "The C major scale." trim: true %}
+  \relative {
+      \key c \major
+	c''4 d e f g a b c
+  } 
+{% endlilypond %}
+
+If we started on G instead, we'd get G-A-B-C-D-E-F#-G. That's the G major scale.
+
+{% lilypond alt: "The G major scale." trim: true %}
+  \relative {
+      \key c \major
+    g'4 a b c d e fis g
+  } 
+{% endlilypond %}
+
+Later I'll explain more thoroughly what it means to say a song is in a certain **key**. But for now I'll just point out that songs in the key of C major, for example, tend primarily to use notes from the C major scale. Like this one:
+
+{% lilypond alt: "Prechorus of Don't Fear the Reaper." trim: true %}
+  \relative {
+      \key c \major
+    a'8 a a4 g d8 e8~   e g4. r8 c, c c   a'4 a8 a b b b c~   c4
+  } 
+  \addlyrics {
+    Sea -- sons don't fear the rea -- per, nor do the wind and the sun and the rain
+  }
+{% endlilypond %}
+
+Songs in the key of G major (for short, "songs in G") likewise use notes from the G major scale. Note specifically the F# instead of F.
+
+{% lilypond alt: "Prechorus of Why Georgia." trim: true %}
+  \relative {
+      \key c \major
+      r2. g'8 g'~    g2.~ g8 g~     g fis r a,~ a b~ b4
+  } 
+  \addlyrics {
+        Cause I won -- der some -- times
+  }
+{% endlilypond %}
+
+As an exercise, try to work out which notes are in the D major scale.
