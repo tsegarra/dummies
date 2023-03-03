@@ -42,7 +42,7 @@ Rests can be dotted, too. This measure from Dirty Little Secret starts with a do
   }
 {% endlilypond %}
 
-Some of these notes extend across the measure boundaries. That's what those curved lines are for.
+Some of these notes extend across the measure boundaries. That's what those curved lines (**ties**) are for.
 
 # Ties
 
@@ -100,7 +100,7 @@ The first two words, "but I'm," are each one finger-tap, or one sixteenth note. 
   }
 {% endlilypond %}
 
-The next word, "in," is sung with two syllables. The first syllable lasts three finger-taps, which is three sixteenth notes.
+The next word, "in," is sung across two pitches, one after the other. The first pitch lasts three finger-taps, which is three sixteenth notes.
 
 ```
   beat: 3   e   &   a   4   e   &   a
@@ -121,7 +121,7 @@ If it lasted *two* sixteenth notes, it'd be an eighth note. If it lasted *four* 
   }
 {% endlilypond %}
 
-The second syllable of "in" lasts the same amount of time.
+The second pitch of "in" lasts the same amount of time.
 
 {% lilypond alt: "First 4 notes of Linger." trim: true %}
   \relative {
@@ -134,7 +134,7 @@ The second syllable of "in" lasts the same amount of time.
   }
 {% endlilypond %}
 
-Then "so" is two finger-taps, or two sixteenth notes, or one eighth note. We can connect this non-dotted eighth note with the previous two dotted ones.
+Then "so" is two finger-taps, or two sixteenth notes, or one eighth note. For visual style we can connect the stem of this non-dotted eighth note with the stems of the previous two dotted ones.
 
 {% lilypond alt: "First measure of Linger chorus." trim: true %}
   \relative {
@@ -166,7 +166,7 @@ Ain't that satisfying?
 
 One last thing. Advanced extra credit addendum.
 
-What's shown above is a perfectly valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn't a note that starts on beat 4. The second syllable of "in" hits right before beat 4, and "so" hits right after, with "in" straddling the beat boundary.
+What's shown above is a valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn't a note that starts on beat 4. The second pitch of "in" hits right before beat 4, and "so" hits right after, with "in" straddling the beat boundary.
 
 
 ```
@@ -175,10 +175,10 @@ finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
 ```
 
-What we can do is break up this troublesome second syllable of "in." We can separate it into the part before the downbeat (a sixteenth note), and the part on/after (an eighth note), and then connect them with a tie.
+What we can do is break up this troublesome second note of "in." We can separate it into the part (one sixteenth note) preceding the fourth beat, and the part (an eighth note) occurring on the fourth beat, and then connect these two parts with a tie.
 
 ```
-                    this part is before the downbeat
+                    this part is before beat 4
                     |
                     *
   beat: 3   e   &   a   4   e   &   a
@@ -186,7 +186,7 @@ finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
                         *   *
                         |   |
-                        ------------ this part is on/after the downbeat
+                        ------------ this part is during beat 4
 ```
 
 Check it out:
@@ -202,6 +202,6 @@ Check it out:
   }
 {% endlilypond %}
 
-Now the third and fourth beats are neatly visually separated. With practice you'll find that really helps readability.
+Now the third and fourth beats are neatly visually separated. Often that's easier to read.
 
 If you didn't follow that section, don't worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn't really matter why as long as you can read it.

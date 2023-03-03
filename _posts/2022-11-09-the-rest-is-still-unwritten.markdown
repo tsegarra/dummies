@@ -29,16 +29,16 @@ Rest durations are divided the same way note durations are (whole rest, half res
 
 The set of five horizontal lines, upon which all music is written, is called the **staff**.
 
-The whole and half rest are distinguished by their position with respect to the staff line. The whole rest hangs down from the line, and the half rest pops up, like a top hat. "Half" shares two letters with "hat." That's the best I got.
+The whole and half rest are distinguished by their position with respect to the staff lines. The whole rest hangs down from a line, and the half rest pops up, like a top hat. "Half" shares two letters with "hat." That's the best I got.
 
-So in the song, we now have a full measure without any notes (four beats, or a whole rest), followed by one quarter rest (one beat) before he starts singing again.
+So in this song, we now have a full measure without any notes (four beats, or a whole rest), followed by one quarter rest (one beat) before he starts singing again.
 
 ```
 count: | 1 & 2 & 3 & 4 & | 1 & 2     & 3    & 4  & |
 vocal: |                 |     Don't   tell a-ny   |
 ```
 
-Or, nicely typeset:
+Or, more nicely typeset:
 
 {% lilypond alt: "Next 2 measures of Dirty Little Secret chorus." trim: true %}
   \relative {

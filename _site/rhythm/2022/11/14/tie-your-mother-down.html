@@ -68,7 +68,7 @@ lyric: So    fine    it's    sun   shine
 
 <p><img src="/dummies/lilypond_files/fe62f71b3c751cd6f004e696019d3fdb_trimmed.svg" alt="Dotted rests in the verse of Dirty Little Secret." class="" style="" /></p>
 
-<p>Some of these notes extend across the measure boundaries. That’s what those curved lines are for.</p>
+<p>Some of these notes extend across the measure boundaries. That’s what those curved lines (<strong>ties</strong>) are for.</p>
 
 <h1 id="ties">Ties</h1>
 
@@ -101,7 +101,7 @@ linger:                         but I'm i-          in          so          deep
 
 <p><img src="/dummies/lilypond_files/99e6d46349299f37c44eafc674bd7e5f_trimmed.svg" alt="First two notes of Linger." class="" style="" /></p>
 
-<p>The next word, “in,” is sung with two syllables. The first syllable lasts three finger-taps, which is three sixteenth notes.</p>
+<p>The next word, “in,” is sung across two pitches, one after the other. The first pitch lasts three finger-taps, which is three sixteenth notes.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
 finger: 1   2   3   4   1   2   3   4
@@ -112,11 +112,11 @@ linger: i-          in          so
 
 <p><img src="/dummies/lilypond_files/9efc556349ca886fcfab5fc9c9630667_trimmed.svg" alt="First 3 notes of Linger." class="" style="" /></p>
 
-<p>The second syllable of “in” lasts the same amount of time.</p>
+<p>The second pitch of “in” lasts the same amount of time.</p>
 
 <p><img src="/dummies/lilypond_files/4acb0399224d9484393d7d21a5b5484b_trimmed.svg" alt="First 4 notes of Linger." class="" style="" /></p>
 
-<p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. We can connect this non-dotted eighth note with the previous two dotted ones.</p>
+<p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. For visual style we can connect the stem of this non-dotted eighth note with the stems of the previous two dotted ones.</p>
 
 <p><img src="/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6_trimmed.svg" alt="First measure of Linger chorus." class="" style="" /></p>
 
@@ -130,16 +130,16 @@ linger: i-          in          so
 
 <p>One last thing. Advanced extra credit addendum.</p>
 
-<p>What’s shown above is a perfectly valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn’t a note that starts on beat 4. The second syllable of “in” hits right before beat 4, and “so” hits right after, with “in” straddling the beat boundary.</p>
+<p>What’s shown above is a valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn’t a note that starts on beat 4. The second pitch of “in” hits right before beat 4, and “so” hits right after, with “in” straddling the beat boundary.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
 finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
 </code></pre></div></div>
 
-<p>What we can do is break up this troublesome second syllable of “in.” We can separate it into the part before the downbeat (a sixteenth note), and the part on/after (an eighth note), and then connect them with a tie.</p>
+<p>What we can do is break up this troublesome second note of “in.” We can separate it into the part (one sixteenth note) preceding the fourth beat, and the part (an eighth note) occurring on the fourth beat, and then connect these two parts with a tie.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                    this part is before the downbeat
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                    this part is before beat 4
                     |
                     *
   beat: 3   e   &amp;   a   4   e   &amp;   a
@@ -147,14 +147,14 @@ finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
                         *   *
                         |   |
-                        ------------ this part is on/after the downbeat
+                        ------------ this part is during beat 4
 </code></pre></div></div>
 
 <p>Check it out:</p>
 
 <p><img src="/dummies/lilypond_files/83c5aa88cfb6b3e2b938b68eb82f25d3_trimmed.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
 
-<p>Now the third and fourth beats are neatly visually separated. With practice you’ll find that really helps readability.</p>
+<p>Now the third and fourth beats are neatly visually separated. Often that’s easier to read.</p>
 
 <p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>
 

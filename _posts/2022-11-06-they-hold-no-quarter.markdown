@@ -8,7 +8,7 @@ categories: rhythm
 When you're transcribing music, you need to express how long to hold
 each note. That's what rhythm notation is for.
 
-The basic unit of note duration is called a "whole note." The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.
+The basic unit of note duration is called a "whole note." The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and in pop music it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.
 
 # How to draw
 
@@ -41,7 +41,7 @@ count: 1    2    3   4
 vocal: I'll keep you my
 ```
 
-Here's how you'd formally draw that measure. The little "c" symbol means "common time" (4/4).
+Here's how you'd draw that measure. The little "c" symbol means "common time" (another name for 4/4).
 
 {% lilypond alt: "First measure of Dirty Little Secret chorus." trim: true %}
   \relative {
@@ -57,11 +57,7 @@ A quarter note lasts for one beat, so each note in this measure is a quarter not
 
 # Eighth notes
 
-If you divide each foot-tap in half, each half has a name:
- - the **downbeat**: when your foot is on the ground
- - the **upbeat**: when your foot is off the ground
-
-You count these out loud by adding the word "and": "1 and 2 and 3 and 4 and." When you say that, each syllable is one eighth note. Each number is a downbeat, and each "and" is an upbeat.
+If you divide the time between each foot-tap in half, then each half represents an **eighth note**. You can count eighth notes out loud by adding the word "and" evenly between each tap: "1 and 2 and 3 and 4 and."
 
 ```
 count: 1    &   2   &   3   &   4   &   | 1   &   2   &   3   &   4   &

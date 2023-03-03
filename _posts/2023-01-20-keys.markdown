@@ -1,0 +1,44 @@
+---
+layout: post
+title: What key be to lock
+date:   2023-01-20 10:11:04 -0400
+categories: melody
+---
+
+The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale's key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.
+
+When notating a song in D, you usually wouldn't write a sharp sign next to every F# and C#. You'd put those two sharps right at the beginning of the piece, in what's called the **key signature**.
+
+{% lilypond alt: "" trim: true %}
+  \relative {
+    \key d \major
+    e''8 fis fis e fis4 r
+  } 
+  \addlyrics {
+    Wait -- in' on the day
+  }
+{% endlilypond %}
+
+If you see a key signature like the one above, with those two sharps, then it means every time you see an F or a C, it's really F# or C# unless explicitly indicated otherwise.
+
+The notes in a scale are also called scale **degrees**. So in the key of G, A is the second scale degree, F# is the seventh, etc.
+
+A **key** is the context that gives each note is emotional quality. So for example in the key of E, the note E sounds pleasant, stable, and resolved. That's because it's the first scale degree, also called the **tonic**.
+
+[example: sometimes i feel like i don't have a partner]
+
+Listen to the words "like" and "have" and the second syllable of "partner." Those are the E's. They sound so well-adjusted.
+
+But if you play an E in the key of F, that same pitch E will sound tense and unstable. In F, E is the seventh scale degree. It's located one quick half step below F, which gives it a quality of reaching up, like it anxiously wants to resolve upward to the tonic. That's why in classical jargon it's called the **leading tone**. It leads your ear back home to 1.
+
+Imagine if Paul McCartney ended the bridge of Yesterday (which is in F) on the second syllable of "yesterday," which is the note E:
+
+[example]
+
+It sounds maddening. But that tension nicely sets up the return to the tonic F in the final syllable of the word:
+
+[example]
+
+Then the melody finally feels resolved. (For a brief moment, before Paul tumbles back down the scale.)
+
+It's these kinds of pitch relationships that give melodies their sense of directed motion and evoke feelings of tension and resolution. This is the tip of a big berg.

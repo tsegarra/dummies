@@ -27,7 +27,7 @@ It's rare for a hip hop song to use any grouping other than 4.
 A standard rap line spans one single four-beat measure, which 
 is why rappers refer to lines as "bars."
 
-When the beats are grouped in fours, we say a song is "in 
+When the beats are grouped in fours, we usually say a song is "in 
 4/4 time." It's pronounced "four-four" and it is not a fraction
 even though it looks like one.
 
@@ -53,7 +53,7 @@ Think of Piano Man, or the verse of Lucy In The Sky.
 vocal: | Pic-ture your-self in a | boat on a river      |
 ```
 
-Other time signatures are much less common, so they tickle your
+Other time signatures are less common, so they tickle your
 brain when you hear them. Pink Floyd's Money is in 7/4. The main
 riff from The Ocean has seven and a half beats. The
 classic example of 5/4 is Dave Brubeck's Take Five, but Taylor
@@ -64,7 +64,7 @@ Swift's Closure uses it, too.
 vocal: | Yes I   got   your let-ter | Yes I'm   do - ing bet-ter |
 ```
 
-Some songs use what's called "compound meter,"
+Some songs use what's called "mixed meter,"
 where not every measure has the same number of beats. The verse
 of All You Need Is Love alternates between 4s and 3s. Or you
 could say it's in sevens. The Song That Jane Likes is in 4/4 but
@@ -76,5 +76,3 @@ It's a bit like when you're transcribing speech and you have
 to decide where to put periods and commas. There are cases that
 could go either way but it's usually fine. After you spend enough
 time in the domain you develop a felt sense of what's normal.
-
-May you never need to notate The Crunge.

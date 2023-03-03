@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="67.18mm" height="297.00mm" viewBox="0.0000 -0.0000 38.2311 169.0094">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="67.18mm" height="297.00mm" viewBox="0 0 38.2311 169.0094">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
 ]]>
 </style>
+<!-- Page: 1/1 -->
 <g transform="translate(2.2762, 8.1867)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0949" stroke="currentColor" x1="0.0474" y1="0" x2="33.6312" y2="0"/>
 </g>
@@ -22,10 +23,7 @@ tspan { white-space: pre; }
 <g transform="translate(35.7746, 6.4867)">
 <rect x="0.0000" y="-1.7000" width="0.1802" height="3.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(24.8326, 3.9367)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.2520 0.6860 8.2520 1.0140 0.0400 0.1640 0.0400 -0.1640"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:4:5">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:4:5">
 <g transform="translate(13.0344, 6.4867)">
 <path transform="scale(0.0034, -0.0034)" d="M-8 78c0 59 125 83 125 182c0 25 -9 49 -26 69l-33 40c-3 4 -4 7 -4 11c0 9 9 17 18 17c4 0 8 -2 12 -6l150 -179c7 -9 11 -18 11 -26c0 -59 -125 -83 -125 -182c0 -25 8 -49 25 -69l82 -97c3 -4 4 -7 4 -11c0 -9 -8 -17 -17 -17c-10 0 -42 42 -106 42
 c-19 0 -54 -1 -54 -66c0 -34 10 -73 27 -93c7 -9 -5 -20 -12 -11c-45 53 -93 147 -93 201c0 42 27 42 43 42c31 0 74 -11 113 -27l-129 154c-7 9 -11 18 -11 26z" fill="currentColor"/>
@@ -37,14 +35,14 @@ c1 19 2 37 2 56c0 30 -2 60 -4 90c-5 -1 -43 -8 -88 -8c-194 0 -333 180 -333 375c0 
 c156 0 257 -129 257 -262zM462 -202c66 24 111 88 111 162c0 89 -65 178 -170 190c28 -135 50 -272 59 -352zM75 26c0 -145 141 -245 263 -245c1 0 46 0 81 6c-7 65 -27 206 -61 363c-79 -8 -124 -61 -124 -119c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16
 c0 -12 -10 -23 -22 -23c-16 0 -127 63 -127 188c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -49 13 -111 38 -191c79 97 144 199 144 324c0 33 0 63 -20 124z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:19:4:5">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:19:4:5">
 <g transform="translate(6.5762, 4.7867)">
-<path transform="scale(0.0034, -0.0034)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
+<path transform="scale(0.0034, -0.0034)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
 </g>
 <g transform="translate(7.5112, 6.0617)">
-<path transform="scale(0.0034, -0.0034)" d="M0 117c0 9 6 18 15 21l43 16v157c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16
-v-157c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57zM178 94l-81 -30v-158l81 30v158z" fill="currentColor"/>
+<path transform="scale(0.0034, -0.0034)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
 </g>
 </a>
 <g transform="translate(9.5962, 6.4867)">
@@ -54,18 +52,23 @@ c-59 0 -250 20 -250 264c0 63 18 264 250 264c115 0 174 -109 174 -165c0 -39 -30 -7
 <g transform="translate(14.2210, 6.0617)">
 <path transform="scale(0.0034, -0.0034)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:14:15">
+<g transform="translate(25.9123, 11.9867)">
+<rect x="0.0000" y="-0.5433" width="0.6600" height="0.1233" ry="0.0379" fill="currentColor"/>
+</g>
+</a>
 <g transform="translate(19.1279, 5.7932)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.2306 -0.1640 3.2306 0.1640 0.0400 0.1640 0.0400 -0.1640"/>
 </g>
 <g transform="translate(19.1279, 6.4867)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.2306 -0.1640 3.2306 0.1640 0.0400 0.1640 0.0400 -0.1640"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:8:9">
-<g transform="translate(18.1439, 8.6117)">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:8:9">
+<g transform="translate(18.1438, 8.6117)">
 <path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:4:5">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:4:5">
 <g transform="translate(17.3489, 11.9867)">
 <text font-family="serif" font-size="2.0989" text-anchor="start" fill="currentColor">
 <tspan>but</tspan>
@@ -75,17 +78,12 @@ c-59 0 -250 20 -250 264c0 63 18 264 250 264c115 0 174 -109 174 -165c0 -39 -30 -7
 <g transform="translate(19.1896, 6.4867)">
 <rect x="-0.0617" y="-0.6934" width="0.1233" height="2.6660" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:14:15">
-<g transform="translate(25.9123, 11.9867)">
-<rect x="0.0000" y="-0.5433" width="0.6600" height="0.1233" ry="0.0379" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:13:14">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:13:14">
 <g transform="translate(21.2912, 8.6117)">
 <path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:8:9">
 <g transform="translate(20.4962, 11.9867)">
 <text font-family="serif" font-size="2.0989" text-anchor="start" fill="currentColor">
 <tspan>I'm</tspan>
@@ -95,12 +93,15 @@ c-59 0 -250 20 -250 264c0 63 18 264 250 264c115 0 174 -109 174 -165c0 -39 -30 -7
 <g transform="translate(22.3369, 6.4867)">
 <rect x="-0.0617" y="-0.6934" width="0.1233" height="2.6660" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:15:16">
+<g transform="translate(24.8326, 3.9367)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.2520 0.6860 8.2520 1.0140 0.0400 0.1640 0.0400 -0.1640"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:15:16">
 <g transform="translate(23.8486, 6.4867)">
 <path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:12:13">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:12:13">
 <g transform="translate(24.1120, 11.9867)">
 <text font-family="serif" font-size="2.0989" text-anchor="start" fill="currentColor">
 <tspan>i</tspan>
@@ -113,13 +114,16 @@ c-59 0 -250 20 -250 264c0 63 18 264 250 264c115 0 174 -109 174 -165c0 -39 -30 -7
 <g transform="translate(24.8943, 6.4867)">
 <rect x="-0.0617" y="-2.5437" width="0.1233" height="2.3912" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:20:21">
+<g transform="translate(33.0630, 6.4867)">
+<rect x="-0.0617" y="-1.7063" width="0.1233" height="3.2539" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:20:21">
 <g transform="translate(28.0579, 6.9117)">
 <path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:17:18">
-<g transform="translate(27.7922, 11.9867)">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:17:18">
+<g transform="translate(27.7921, 11.9867)">
 <text font-family="serif" font-size="2.0989" text-anchor="start" fill="currentColor">
 <tspan>in</tspan>
 </text>
@@ -131,19 +135,16 @@ c-59 0 -250 20 -250 264c0 63 18 264 250 264c115 0 174 -109 174 -165c0 -39 -30 -7
 <g transform="translate(29.1036, 6.4867)">
 <rect x="-0.0617" y="-2.1122" width="0.1233" height="2.3847" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:24:25">
-<g transform="translate(32.0172, 8.1867)">
-<path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:20:21">
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:24:20:21">
 <g transform="translate(31.6320, 11.9867)">
 <text font-family="serif" font-size="2.0989" text-anchor="start" fill="currentColor">
 <tspan>so</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(33.0630, 6.4867)">
-<rect x="-0.0617" y="-1.7063" width="0.1233" height="3.2539" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6.ly:20:24:25">
+<g transform="translate(32.0172, 8.1867)">
+<path transform="scale(0.0034, -0.0034)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
 </g>
+</a>
 </svg>
