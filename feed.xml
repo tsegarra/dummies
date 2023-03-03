@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2023-01-21T11:59:14-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">What key be to lock</title><link href="/dummies/melody/2023/01/21/keys.html" rel="alternate" type="text/html" title="What key be to lock" /><published>2023-01-21T10:11:04-05:00</published><updated>2023-01-21T10:11:04-05:00</updated><id>/dummies/melody/2023/01/21/keys</id><content type="html" xml:base="/dummies/melody/2023/01/21/keys.html"><![CDATA[<p>The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="/dummies/feed.xml" rel="self" type="application/atom+xml" /><link href="/dummies/" rel="alternate" type="text/html" /><updated>2023-03-03T15:54:46-05:00</updated><id>/dummies/feed.xml</id><title type="html">Music theory from dummies</title><subtitle>Talk about. Pop music talk about.</subtitle><entry><title type="html">What key be to lock</title><link href="/dummies/melody/2023/01/21/keys.html" rel="alternate" type="text/html" title="What key be to lock" /><published>2023-01-21T10:11:04-05:00</published><updated>2023-01-21T10:11:04-05:00</updated><id>/dummies/melody/2023/01/21/keys</id><content type="html" xml:base="/dummies/melody/2023/01/21/keys.html"><![CDATA[<p>The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.</p>
 
 <p>When notating a song in D, you usually wouldn’t write a sharp sign next to every F# and C#. You’d put those two sharps right at the beginning of the piece, in what’s called the <strong>key signature</strong>.</p>
 
@@ -26,7 +26,35 @@
 
 <p>Then the melody finally feels finished. (For a brief moment, before Paul tumbles back down the scale.)</p>
 
-<p>These kinds of pitch relationships give melodies their sense of directed motion and evoke feelings of tension and resolution. That’s the tip of a big berg.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.]]></summary></entry><entry><title type="html">Ground control to major</title><link href="/dummies/melody/2022/12/22/scales.html" rel="alternate" type="text/html" title="Ground control to major" /><published>2022-12-22T09:11:04-05:00</published><updated>2022-12-22T09:11:04-05:00</updated><id>/dummies/melody/2022/12/22/scales</id><content type="html" xml:base="/dummies/melody/2022/12/22/scales.html"><![CDATA[<p>Most Western music is made of twelve notes: C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, and B.</p>
+<p>These kinds of pitch relationships give melodies their sense of directed motion and evoke feelings of tension and resolution. That’s the tip of a big berg.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.]]></summary></entry><entry><title type="html">What key be to lock</title><link href="/dummies/melody/2023/01/20/keys.html" rel="alternate" type="text/html" title="What key be to lock" /><published>2023-01-20T09:11:04-05:00</published><updated>2023-01-20T09:11:04-05:00</updated><id>/dummies/melody/2023/01/20/keys</id><content type="html" xml:base="/dummies/melody/2023/01/20/keys.html"><![CDATA[<p>The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.</p>
+
+<p>When notating a song in D, you usually wouldn’t write a sharp sign next to every F# and C#. You’d put those two sharps right at the beginning of the piece, in what’s called the <strong>key signature</strong>.</p>
+
+<p><img src="/dummies/lilypond_files/1d29a4813ed1445e556a2c83c656fa51_trimmed.svg" alt="" class="" style="" /></p>
+
+<p>If you see a key signature like the one above, with those two sharps, then it means every time you see an F or a C, it’s really F# or C# unless explicitly indicated otherwise.</p>
+
+<p>The notes in a scale are also called scale <strong>degrees</strong>. So in the key of G, A is the second scale degree, F# is the seventh, etc.</p>
+
+<p>A <strong>key</strong> is the context that gives each note is emotional quality. So for example in the key of E, the note E sounds pleasant, stable, and resolved. That’s because it’s the first scale degree, also called the <strong>tonic</strong>.</p>
+
+<p>[example: sometimes i feel like i don’t have a partner]</p>
+
+<p>Listen to the words “like” and “have” and the second syllable of “partner.” Those are the E’s. They sound so well-adjusted.</p>
+
+<p>But if you play an E in the key of F, that same pitch E will sound tense and unstable. In F, E is the seventh scale degree. It’s located one quick half step below F, which gives it a quality of reaching up, like it anxiously wants to resolve upward to the tonic. That’s why in classical jargon it’s called the <strong>leading tone</strong>. It leads your ear back home to 1.</p>
+
+<p>Imagine if Paul McCartney ended the bridge of Yesterday (which is in F) on the second syllable of “yesterday,” which is the note E:</p>
+
+<p>[example]</p>
+
+<p>It sounds maddening. But that tension nicely sets up the return to the tonic F in the final syllable of the word:</p>
+
+<p>[example]</p>
+
+<p>Then the melody finally feels resolved. (For a brief moment, before Paul tumbles back down the scale.)</p>
+
+<p>It’s these kinds of pitch relationships that give melodies their sense of directed motion and evoke feelings of tension and resolution. This is the tip of a big berg.</p>]]></content><author><name></name></author><category term="melody" /><summary type="html"><![CDATA[The notes in a given major scale all sound good together. If all the notes of a song are in a certain major scale, then we can say the song is in that scale’s key. For example, a song that uses only D, E, F#, G, A, B, and C# will be in the key of D.]]></summary></entry><entry><title type="html">Ground control to major</title><link href="/dummies/melody/2022/12/22/scales.html" rel="alternate" type="text/html" title="Ground control to major" /><published>2022-12-22T09:11:04-05:00</published><updated>2022-12-22T09:11:04-05:00</updated><id>/dummies/melody/2022/12/22/scales</id><content type="html" xml:base="/dummies/melody/2022/12/22/scales.html"><![CDATA[<p>Most Western music is made of twelve notes: C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, and B.</p>
 
 <p>The distance between two adjacent notes is called a half step. So it’s a half step between C and C#, or between E and F, or between B and C.</p>
 
@@ -124,7 +152,7 @@ lyric: So    fine    it's    sun   shine
 
 <p><img src="/dummies/lilypond_files/fe62f71b3c751cd6f004e696019d3fdb_trimmed.svg" alt="Dotted rests in the verse of Dirty Little Secret." class="" style="" /></p>
 
-<p>Some of these notes extend across the measure boundaries. That’s what those curved lines are for.</p>
+<p>Some of these notes extend across the measure boundaries. That’s what those curved lines (<strong>ties</strong>) are for.</p>
 
 <h1 id="ties">Ties</h1>
 
@@ -157,7 +185,7 @@ linger:                         but I'm i-          in          so          deep
 
 <p><img src="/dummies/lilypond_files/99e6d46349299f37c44eafc674bd7e5f_trimmed.svg" alt="First two notes of Linger." class="" style="" /></p>
 
-<p>The next word, “in,” is sung with two syllables. The first syllable lasts three finger-taps, which is three sixteenth notes.</p>
+<p>The next word, “in,” is sung across two pitches, one after the other. The first pitch lasts three finger-taps, which is three sixteenth notes.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
 finger: 1   2   3   4   1   2   3   4
@@ -168,11 +196,11 @@ linger: i-          in          so
 
 <p><img src="/dummies/lilypond_files/9efc556349ca886fcfab5fc9c9630667_trimmed.svg" alt="First 3 notes of Linger." class="" style="" /></p>
 
-<p>The second syllable of “in” lasts the same amount of time.</p>
+<p>The second pitch of “in” lasts the same amount of time.</p>
 
 <p><img src="/dummies/lilypond_files/4acb0399224d9484393d7d21a5b5484b_trimmed.svg" alt="First 4 notes of Linger." class="" style="" /></p>
 
-<p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. We can connect this non-dotted eighth note with the previous two dotted ones.</p>
+<p>Then “so” is two finger-taps, or two sixteenth notes, or one eighth note. For visual style we can connect the stem of this non-dotted eighth note with the stems of the previous two dotted ones.</p>
 
 <p><img src="/dummies/lilypond_files/e711acfefd7aaecea2914f8176e482d6_trimmed.svg" alt="First measure of Linger chorus." class="" style="" /></p>
 
@@ -186,16 +214,16 @@ linger: i-          in          so
 
 <p>One last thing. Advanced extra credit addendum.</p>
 
-<p>What’s shown above is a perfectly valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn’t a note that starts on beat 4. The second syllable of “in” hits right before beat 4, and “so” hits right after, with “in” straddling the beat boundary.</p>
+<p>What’s shown above is a valid way to write this melody. But the dotted eighth notes are a little awkward. It takes some mental effort to keep track of where each downbeat falls. Especially beat 4, because there isn’t a note that starts on beat 4. The second pitch of “in” hits right before beat 4, and “so” hits right after, with “in” straddling the beat boundary.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  beat: 3   e   &amp;   a   4   e   &amp;   a
 finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
 </code></pre></div></div>
 
-<p>What we can do is break up this troublesome second syllable of “in.” We can separate it into the part before the downbeat (a sixteenth note), and the part on/after (an eighth note), and then connect them with a tie.</p>
+<p>What we can do is break up this troublesome second note of “in.” We can separate it into the part (one sixteenth note) preceding the fourth beat, and the part (an eighth note) occurring on the fourth beat, and then connect these two parts with a tie.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                    this part is before the downbeat
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                    this part is before beat 4
                     |
                     *
   beat: 3   e   &amp;   a   4   e   &amp;   a
@@ -203,14 +231,14 @@ finger: 1   2   3   4   1   2   3   4
 linger: i-          in          so   
                         *   *
                         |   |
-                        ------------ this part is on/after the downbeat
+                        ------------ this part is during beat 4
 </code></pre></div></div>
 
 <p>Check it out:</p>
 
 <p><img src="/dummies/lilypond_files/83c5aa88cfb6b3e2b938b68eb82f25d3_trimmed.svg" alt="First 2 measures of Linger chorus." class="" style="" /></p>
 
-<p>Now the third and fourth beats are neatly visually separated. With practice you’ll find that really helps readability.</p>
+<p>Now the third and fourth beats are neatly visually separated. Often that’s easier to read.</p>
 
 <p>If you didn’t follow that section, don’t worry about it. It comes naturally with time once you see enough of these. I just wanted to explain why you sometimes see a tie in the middle of a measure. It doesn’t really matter why as long as you can read it.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[There are a few common symbols that can change the written duration of a note.]]></summary></entry><entry><title type="html">The rest is still unwritten</title><link href="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html" rel="alternate" type="text/html" title="The rest is still unwritten" /><published>2022-11-09T10:21:14-05:00</published><updated>2022-11-09T10:21:14-05:00</updated><id>/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten</id><content type="html" xml:base="/dummies/rhythm/2022/11/09/the-rest-is-still-unwritten.html"><![CDATA[<p>So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.</p>
 
@@ -226,15 +254,15 @@ linger: i-          in          so
 
 <p>The set of five horizontal lines, upon which all music is written, is called the <strong>staff</strong>.</p>
 
-<p>The whole and half rest are distinguished by their position with respect to the staff line. The whole rest hangs down from the line, and the half rest pops up, like a top hat. “Half” shares two letters with “hat.” That’s the best I got.</p>
+<p>The whole and half rest are distinguished by their position with respect to the staff lines. The whole rest hangs down from a line, and the half rest pops up, like a top hat. “Half” shares two letters with “hat.” That’s the best I got.</p>
 
-<p>So in the song, we now have a full measure without any notes (four beats, or a whole rest), followed by one quarter rest (one beat) before he starts singing again.</p>
+<p>So in this song, we now have a full measure without any notes (four beats, or a whole rest), followed by one quarter rest (one beat) before he starts singing again.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count: | 1 &amp; 2 &amp; 3 &amp; 4 &amp; | 1 &amp; 2     &amp; 3    &amp; 4  &amp; |
 vocal: |                 |     Don't   tell a-ny   |
 </code></pre></div></div>
 
-<p>Or, nicely typeset:</p>
+<p>Or, more nicely typeset:</p>
 
 <p><img src="/dummies/lilypond_files/0d79c49d243ce766e15ed29e77c2a64f_trimmed.svg" alt="Next 2 measures of Dirty Little Secret chorus." class="" style="" /></p>
 
@@ -243,7 +271,7 @@ vocal: |                 |     Don't   tell a-ny   |
 <p><img src="/dummies/lilypond_files/58eeba7afc1f8bf9f12a41df0374ef05_trimmed.svg" alt="First 2 measures of Dirty Little Secret chorus." class="" style="" /></p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[So far we’ve been over how to notate note durations. We accomplished the dubious feat of reading the first two measures of the chorus to Dirty Little Secret by The All-American Rejects.]]></summary></entry><entry><title type="html">They hold no quarter</title><link href="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html" rel="alternate" type="text/html" title="They hold no quarter" /><published>2022-11-06T10:52:58-05:00</published><updated>2022-11-06T10:52:58-05:00</updated><id>/dummies/rhythm/2022/11/06/they-hold-no-quarter</id><content type="html" xml:base="/dummies/rhythm/2022/11/06/they-hold-no-quarter.html"><![CDATA[<p>When you’re transcribing music, you need to express how long to hold
 each note. That’s what rhythm notation is for.</p>
 
-<p>The basic unit of note duration is called a “whole note.” The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.</p>
+<p>The basic unit of note duration is called a “whole note.” The precise amount of time you hold a whole note depends on a few factors, but if the time signature is 4/4 (and in pop music it usually is), a whole note always lasts four beats. A half note is half as long as a whole note (2 beats), a quarter note is half as long as that (1 beat), etc.</p>
 
 <h1 id="how-to-draw">How to draw</h1>
 
@@ -273,7 +301,7 @@ a quarter note. You can say it out loud while you tap: “1, 2, 3, 4.”</p>
 vocal: I'll keep you my
 </code></pre></div></div>
 
-<p>Here’s how you’d formally draw that measure. The little “c” symbol means “common time” (4/4).</p>
+<p>Here’s how you’d draw that measure. The little “c” symbol means “common time” (another name for 4/4).</p>
 
 <p><img src="/dummies/lilypond_files/4f70a80da21584228a759b4d1557dfb8_trimmed.svg" alt="First measure of Dirty Little Secret chorus." class="" style="" /></p>
 
@@ -281,13 +309,7 @@ vocal: I'll keep you my
 
 <h1 id="eighth-notes">Eighth notes</h1>
 
-<p>If you divide each foot-tap in half, each half has a name:</p>
-<ul>
-  <li>the <strong>downbeat</strong>: when your foot is on the ground</li>
-  <li>the <strong>upbeat</strong>: when your foot is off the ground</li>
-</ul>
-
-<p>You count these out loud by adding the word “and”: “1 and 2 and 3 and 4 and.” When you say that, each syllable is one eighth note. Each number is a downbeat, and each “and” is an upbeat.</p>
+<p>If you divide the time between each foot-tap in half, then each half represents an <strong>eighth note</strong>. You can count eighth notes out loud by adding the word “and” evenly between each tap: “1 and 2 and 3 and 4 and.”</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count: 1    &amp;   2   &amp;   3   &amp;   4   &amp;   | 1   &amp;   2   &amp;   3   &amp;   4   &amp;
 vocal: I'll     keep    you     my        dir-ty  lit-tle se-     cret
@@ -317,7 +339,7 @@ vocal: | I'll keep you my | dir-ty lit-tle se-cret |
 A standard rap line spans one single four-beat measure, which 
 is why rappers refer to lines as “bars.”</p>
 
-<p>When the beats are grouped in fours, we say a song is “in 
+<p>When the beats are grouped in fours, we usually say a song is “in 
 4/4 time.” It’s pronounced “four-four” and it is not a fraction
 even though it looks like one.</p>
 
@@ -341,7 +363,7 @@ Think of Piano Man, or the verse of Lucy In The Sky.</p>
 vocal: | Pic-ture your-self in a | boat on a river      |
 </code></pre></div></div>
 
-<p>Other time signatures are much less common, so they tickle your
+<p>Other time signatures are less common, so they tickle your
 brain when you hear them. Pink Floyd’s Money is in 7/4. The main
 riff from The Ocean has seven and a half beats. The
 classic example of 5/4 is Dave Brubeck’s Take Five, but Taylor
@@ -351,7 +373,7 @@ Swift’s Closure uses it, too.</p>
 vocal: | Yes I   got   your let-ter | Yes I'm   do - ing bet-ter |
 </code></pre></div></div>
 
-<p>Some songs use what’s called “compound meter,”
+<p>Some songs use what’s called “mixed meter,”
 where not every measure has the same number of beats. The verse
 of All You Need Is Love alternates between 4s and 3s. Or you
 could say it’s in sevens. The Song That Jane Likes is in 4/4 but
@@ -362,6 +384,4 @@ on what feels natural and what’s most convenient to notate.
 It’s a bit like when you’re transcribing speech and you have
 to decide where to put periods and commas. There are cases that
 could go either way but it’s usually fine. After you spend enough
-time in the domain you develop a felt sense of what’s normal.</p>
-
-<p>May you never need to notate The Crunge.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[A beat is one “pulse.” What constitutes a single pulse is somewhat subjective but it’s pretty clear in most cases. It usually corresponds to one intuitive foot-tap.]]></summary></entry></feed>
+time in the domain you develop a felt sense of what’s normal.</p>]]></content><author><name></name></author><category term="rhythm" /><summary type="html"><![CDATA[A beat is one “pulse.” What constitutes a single pulse is somewhat subjective but it’s pretty clear in most cases. It usually corresponds to one intuitive foot-tap.]]></summary></entry></feed>

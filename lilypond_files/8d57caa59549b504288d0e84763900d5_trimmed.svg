@@ -28,6 +28,7 @@
      id="style2"><![CDATA[
 tspan { white-space: pre; }
 ]]></style>
+  <!-- Page: 1/1 -->
   <g
      transform="translate(4.9997121e-5,5.328544)"
      id="g6">
@@ -99,7 +100,7 @@ tspan { white-space: pre; }
        id="line20" />
   </g>
   <g
-     transform="translate(49.66595,3.628544)"
+     transform="translate(19.63705,3.628544)"
      id="g26">
     <rect
        x="0"
@@ -111,7 +112,7 @@ tspan { white-space: pre; }
        id="rect24" />
   </g>
   <g
-     transform="translate(30.75085,3.628544)"
+     transform="translate(49.66595,3.628544)"
      id="g30">
     <rect
        x="0"
@@ -123,7 +124,7 @@ tspan { white-space: pre; }
        id="rect28" />
   </g>
   <g
-     transform="translate(19.63705,3.628544)"
+     transform="translate(30.75085,3.628544)"
      id="g34">
     <rect
        x="0"
@@ -134,90 +135,90 @@ tspan { white-space: pre; }
        fill="currentColor"
        id="rect32" />
   </g>
-  <g
-     transform="translate(42.65795,1.235144)"
-     id="g38">
-    <polygon
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       stroke-width="0.08"
-       fill="currentColor"
-       stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 2.3907,-0.4771 2.3907,-0.1491 "
-       id="polygon36" />
-  </g>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:6:7"
-     id="a44"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:16:17"
+     id="a40"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(10.7144,6.9088)"
-       id="g42">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="M 364,0 H 11 C 5,0 0,5 0,11 v 134 c 0,6 5,11 11,11 h 353 c 6,0 11,-5 11,-11 V 11 C 375,5 370,0 364,0 Z"
-         fill="currentColor"
-         id="path40" />
-    </g>
-  </a>
-  <g
-     transform="translate(0.80005,4.478544)"
-     id="g48">
-    <path
-       transform="scale(0.0034,-0.0034)"
-       d="m 646,2 c 0,-113 -74,-213 -180,-247 3,-34 5,-68 5,-102 0,-20 -1,-40 -2,-60 -7,-121 -91,-228 -209,-228 -108,0 -196,87 -196,196 0,58 53,104 112,104 54,0 95,-48 95,-104 0,-52 -43,-95 -95,-95 -10,0 -20,2 -29,6 26,-38 68,-63 116,-63 h 3 c 93,2 153,92 159,190 1,19 2,37 2,56 0,30 -2,60 -4,90 -5,-1 -43,-8 -88,-8 -194,0 -333,180 -333,375 0,177 130,307 246,442 -31,98 -53,170 -53,347 0,115 55,223 148,290 7,5 16,4 22,-1 68,-80 134,-243 134,-357 0,-143 -85,-255 -178,-364 21,-68 40,-137 57,-206 1,0 5,1 11,1 C 545,264 646,135 646,2 Z M 462,-202 c 66,24 111,88 111,162 0,89 -65,178 -170,190 28,-135 50,-272 59,-352 z M 75,26 c 0,-145 141,-245 263,-245 1,0 46,0 81,6 -7,65 -27,206 -61,363 -79,-8 -124,-61 -124,-119 0,-43 25,-89 80,-121 5,-5 7,-11 7,-16 0,-12 -10,-23 -22,-23 -16,0 -127,63 -127,188 0,89 58,175 161,198 -14,58 -29,116 -46,173 C 181,308 75,186 75,26 Z M 406,1042 C 307,995 244,894 244,785 c 0,-49 13,-111 38,-191 79,97 144,199 144,324 0,33 0,63 -20,124 z"
-       fill="currentColor"
-       id="path46" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:19:6:7"
-     id="a50"
-     transform="translate(-2.27615,-3.280256)" />
-  <g
-     transform="translate(5.00005,3.628544)"
-     id="g54">
-    <path
-       transform="scale(0.0034,-0.0034)"
-       d="m 358,29 c -30,0 -74,23 -74,73 0,38 27,76 71,76 4,0 7,0 11,-1 -27,36 -69,59 -116,59 -106,0 -113,-74 -113,-188 0,-15 1,-31 1,-48 0,-17 -1,-33 -1,-48 0,-114 7,-188 113,-188 79,0 136,70 155,150 2,7 7,10 13,10 7,0 14,-5 14,-13 0,-21 -50,-175 -182,-175 C 191,-264 0,-244 0,0 0,63 18,264 250,264 365,264 424,155 424,99 424,60 394,29 358,29 Z"
-       fill="currentColor"
-       id="path52" />
-  </g>
-  <g
-     transform="translate(10.09235,3.203544)"
-     id="g58">
-    <path
-       transform="scale(0.0034,-0.0034)"
-       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
-       fill="currentColor"
-       id="path56" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:51:52"
-     id="a64"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(46.2574,6.9088)"
-       id="g62">
+       transform="translate(19.8558,6.9088)"
+       id="g38">
       <path
          stroke-width="0.0759"
          stroke-linejoin="round"
          stroke-linecap="round"
          stroke="currentColor"
          fill="currentColor"
-         d="m 1.4382,-1.0413 c 0.3295,-0.4191 0.8934,-0.4191 1.2229,0 v 0 c -0.3295,-0.3053 -0.8934,-0.3053 -1.2229,0 z"
-         id="path60" />
+         d="m 0.7537,-2.975 c 0.6416,-0.6887 2.2868,-0.6887 2.9284,0 v 0 c -0.6416,-0.5749 -2.2868,-0.5749 -2.9284,0 z"
+         id="path36" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:10:11"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:6:7"
+     id="a46"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(10.7144,6.9088)"
+       id="g44">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="M 364,0 H 11 C 5,0 0,5 0,11 v 134 c 0,6 5,11 11,11 h 353 c 6,0 11,-5 11,-11 V 11 C 375,5 370,0 364,0 Z"
+         fill="currentColor"
+         id="path42" />
+    </g>
+  </a>
+  <g
+     transform="translate(0.80005,4.478544)"
+     id="g50">
+    <path
+       transform="scale(0.0034,-0.0034)"
+       d="m 646,2 c 0,-113 -74,-213 -180,-247 3,-34 5,-68 5,-102 0,-20 -1,-40 -2,-60 -7,-121 -91,-228 -209,-228 -108,0 -196,87 -196,196 0,58 53,104 112,104 54,0 95,-48 95,-104 0,-52 -43,-95 -95,-95 -10,0 -20,2 -29,6 26,-38 68,-63 116,-63 h 3 c 93,2 153,92 159,190 1,19 2,37 2,56 0,30 -2,60 -4,90 -5,-1 -43,-8 -88,-8 -194,0 -333,180 -333,375 0,177 130,307 246,442 -31,98 -53,170 -53,347 0,115 55,223 148,290 7,5 16,4 22,-1 68,-80 134,-243 134,-357 0,-143 -85,-255 -178,-364 21,-68 40,-137 57,-206 1,0 5,1 11,1 C 545,264 646,135 646,2 Z M 462,-202 c 66,24 111,88 111,162 0,89 -65,178 -170,190 28,-135 50,-272 59,-352 z M 75,26 c 0,-145 141,-245 263,-245 1,0 46,0 81,6 -7,65 -27,206 -61,363 -79,-8 -124,-61 -124,-119 0,-43 25,-89 80,-121 5,-5 7,-11 7,-16 0,-12 -10,-23 -22,-23 -16,0 -127,63 -127,188 0,89 58,175 161,198 -14,58 -29,116 -46,173 C 181,308 75,186 75,26 Z M 406,1042 C 307,995 244,894 244,785 c 0,-49 13,-111 38,-191 79,97 144,199 144,324 0,33 0,63 -20,124 z"
+       fill="currentColor"
+       id="path48" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:19:6:7"
+     id="a52"
+     transform="translate(-2.27615,-3.280256)" />
+  <g
+     transform="translate(5.00005,3.628544)"
+     id="g56">
+    <path
+       transform="scale(0.0034,-0.0034)"
+       d="m 358,29 c -30,0 -74,23 -74,73 0,38 27,76 71,76 4,0 7,0 11,-1 -27,36 -69,59 -116,59 -106,0 -113,-74 -113,-188 0,-15 1,-31 1,-48 0,-17 -1,-33 -1,-48 0,-114 7,-188 113,-188 79,0 136,70 155,150 2,7 7,10 13,10 7,0 14,-5 14,-13 0,-21 -50,-175 -182,-175 C 191,-264 0,-244 0,0 0,63 18,264 250,264 365,264 424,155 424,99 424,60 394,29 358,29 Z"
+       fill="currentColor"
+       id="path54" />
+  </g>
+  <g
+     transform="translate(10.09235,3.203544)"
+     id="g60">
+    <path
+       transform="scale(0.0034,-0.0034)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path58" />
+  </g>
+  <g
+     transform="translate(14.01515,6.603544)"
+     id="g64">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.164 0.04,-0.164 3.6478,-1.5956 3.6478,-1.2676 "
+       id="polygon62" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:36:37"
      id="a70"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(16.2913,7.7588)"
+       transform="translate(34.2928,4.7838)"
        id="g68">
       <path
          transform="scale(0.0034,-0.0034)"
@@ -226,246 +227,9 @@ tspan { white-space: pre; }
          id="path66" />
     </g>
   </a>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:8:9"
-     id="a78"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(14.2843,12.4088)"
-       id="g76">
-      <text
-         font-family="serif"
-         font-size="2.0989px"
-         text-anchor="start"
-         fill="currentColor"
-         id="text74"><tspan
-           id="tspan72">Cause</tspan></text>
-    </g>
-  </a>
-  <g
-     transform="translate(14.07685,3.628544)"
-     id="g82">
-    <rect
-       x="-0.061700001"
-       y="1.0025001"
-       width="0.1233"
-       height="1.9486001"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect80" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:14:15"
-     id="a88"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(19.8558,4.7838)"
-       id="g86">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
-         fill="currentColor"
-         id="path84" />
-    </g>
-  </a>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:14:15"
-     id="a96"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(19.8558,12.4088)"
-       id="g94">
-      <text
-         font-family="serif"
-         font-size="2.0989px"
-         text-anchor="start"
-         fill="currentColor"
-         id="text92"><tspan
-           id="tspan90">I</tspan></text>
-    </g>
-  </a>
-  <g
-     transform="translate(17.64125,3.628544)"
-     id="g100">
-    <rect
-       x="-0.061700001"
-       y="-1.9725"
-       width="0.1233"
-       height="3.5399001"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect98" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:46:47"
-     id="a106"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(41.6426,6.9088)"
-       id="g104">
-      <path
-         stroke-width="0.0759"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         stroke="currentColor"
-         fill="currentColor"
-         d="m 0.7537,1.0413 c 0.4705,0.5561 1.4368,0.5561 1.9074,0 v 0 c -0.4706,0.4423 -1.4369,0.4423 -1.9074,0 z"
-         id="path102" />
-    </g>
-  </a>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:21:22"
-     id="a112"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(23.1511,4.7838)"
-       id="g110">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 312,64 c 0,23 -18,41 -41,41 C 232,105 70,-5 43,-37 36,-45 33,-54 33,-64 c 0,-23 18,-41 41,-41 39,0 201,110 228,142 7,8 10,17 10,27 z m -53,73 c 46,0 86,-17 86,-74 0,-26 -15,-112 -73,-151 -29,-20 -89,-49 -186,-49 -46,0 -86,17 -86,74 0,26 16,112 74,151 29,20 88,49 185,49 z"
-         fill="currentColor"
-         id="path108" />
-    </g>
-  </a>
-  <g
-     transform="translate(22.42755,1.503544)"
-     id="g116">
-    <path
-       transform="scale(0.0034,-0.0034)"
-       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
-       fill="currentColor"
-       id="path114" />
-  </g>
-  <g
-     transform="translate(20.93665,3.628544)"
-     id="g120">
-    <rect
-       x="-0.061700001"
-       y="-1.91"
-       width="0.1233"
-       height="2.76"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect118" />
-  </g>
-  <g
-     transform="translate(32.01665,4.321944)"
-     id="g124">
-    <polygon
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       stroke-width="0.08"
-       fill="currentColor"
-       stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 3.0757,0.1491 3.0757,0.4771 "
-       id="polygon122" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:26:27"
-     id="a130"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(28.6266,4.7838)"
-       id="g128">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
-         fill="currentColor"
-         id="path126" />
-    </g>
-  </a>
-  <g
-     transform="translate(26.41205,3.628544)"
-     id="g134">
-    <rect
-       x="-0.061700001"
-       y="-1.9725"
-       width="0.1233"
-       height="2.6659999"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect132" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:29:30"
-     id="a140"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(30.9339,4.7838)"
-       id="g138">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
-         fill="currentColor"
-         id="path136" />
-    </g>
-  </a>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:16:17"
-     id="a148"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(30.9339,12.4088)"
-       id="g146">
-      <text
-         font-family="serif"
-         font-size="2.0989px"
-         text-anchor="start"
-         fill="currentColor"
-         id="text144"><tspan
-           id="tspan142">won</tspan></text>
-    </g>
-  </a>
-  <g
-     transform="translate(28.71945,3.628544)"
-     id="g152">
-    <rect
-       x="-0.061700001"
-       y="-1.9725"
-       width="0.1233"
-       height="2.6659999"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect150" />
-  </g>
-  <g
-     transform="translate(26.35045,4.321944)"
-     id="g156">
-    <polygon
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       stroke-width="0.08"
-       fill="currentColor"
-       stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 2.3907,-0.164 2.3907,0.164 "
-       id="polygon154" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:36:37"
-     id="a162"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(34.2928,4.7838)"
-       id="g160">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
-         fill="currentColor"
-         id="path158" />
-    </g>
-  </a>
   <g
      transform="translate(32.07835,3.628544)"
-     id="g166">
+     id="g74">
     <rect
        x="-0.061700001"
        y="-1.9725"
@@ -473,61 +237,43 @@ tspan { white-space: pre; }
        height="2.6722"
        ry="0.039999999"
        fill="currentColor"
-       id="rect164" />
+       id="rect72" />
   </g>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:30:31"
-     id="a172"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(30.9339,6.9088)"
-       id="g170">
-      <path
-         stroke-width="0.0759"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         stroke="currentColor"
-         fill="currentColor"
-         d="m 0.7537,-2.975 c 0.6461,-0.6917 2.3128,-0.6917 2.9589,0 v 0 c -0.6461,-0.5779 -2.3128,-0.5779 -2.9589,0 z"
-         id="path168" />
-    </g>
-  </a>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:38:39"
-     id="a178"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:38:39"
+     id="a80"
      transform="translate(-2.27615,-3.280256)">
     <g
        transform="translate(37.2852,5.2088)"
-       id="g176">
+       id="g78">
       <path
          transform="scale(0.0034,-0.0034)"
          d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
          fill="currentColor"
-         id="path174" />
+         id="path76" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:23:24"
-     id="a186"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:23:24"
+     id="a88"
      transform="translate(-2.27615,-3.280256)">
     <g
        transform="translate(36.5073,12.4088)"
-       id="g184">
+       id="g86">
       <text
          font-family="serif"
          font-size="2.0989px"
          text-anchor="start"
          fill="currentColor"
-         id="text182"><tspan
-           id="tspan180">der</tspan></text>
+         id="text84"><tspan
+           id="tspan82">der</tspan></text>
     </g>
   </a>
   <g
      transform="translate(35.07075,3.628544)"
-     id="g190">
+     id="g92">
     <rect
        x="-0.061700001"
        y="-1.5475"
@@ -535,25 +281,111 @@ tspan { white-space: pre; }
        height="2.5479"
        ry="0.039999999"
        fill="currentColor"
-       id="rect188" />
+       id="rect90" />
   </g>
   <g
      transform="translate(33.72405,1.928544)"
-     id="g194">
+     id="g96">
     <path
        transform="scale(0.0034,-0.0034)"
-       d="m 0,117 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 v -157 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 Z M 178,94 97,64 V -94 l 81,30 z"
+       d="m 217,-311 c 0,-11 -8,-19 -19,-19 -11,0 -20,8 -20,19 v 142 l -81,-30 v -156 c 0,-11 -9,-20 -20,-20 -11,0 -19,9 -19,20 v 142 l -28,-11 c -3,-1 -5,-1 -8,-1 -12,0 -22,10 -22,23 v 57 c 0,9 6,18 15,21 l 43,16 V 49 L 30,39 C 27,38 25,38 22,38 10,38 0,47 0,60 v 57 c 0,9 6,18 15,21 l 43,16 v 157 c 0,11 8,19 19,19 11,0 20,-8 20,-19 V 169 l 81,30 v 156 c 0,11 9,20 20,20 11,0 19,-9 19,-20 V 213 l 28,11 c 3,1 5,1 8,1 12,0 22,-10 22,-23 v -57 c 0,-9 -6,-18 -15,-21 L 217,108 V -49 l 28,10 c 3,1 5,1 8,1 12,0 22,-9 22,-22 v -57 c 0,-9 -6,-18 -15,-21 l -43,-16 z M 97,64 V -94 l 81,30 V 94 Z"
        fill="currentColor"
-       id="path192" />
+       id="path94" />
   </g>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:20:21"
-     id="a200"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:24:25"
+     id="a102"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(23.1511,6.9088)"
+       id="g100">
+      <path
+         stroke-width="0.0759"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.7867,-2.975 c 0.8971,-0.8262 4.1454,-0.8262 5.0424,0 v 0 c -0.897,-0.7124 -4.1453,-0.7124 -5.0424,0 z"
+         id="path98" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:42:43"
+     id="a108"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(39.5926,6.9088)"
+       id="g106">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 70,205 c 80,0 46,-97 90,-97 15,0 52,45 59,59 6,13 26,13 31,0 L 129,-250 c -9,-7 -19,-11 -30,-11 -11,0 -21,4 -30,11 L 187,76 C 154,64 119,54 84,54 37,54 -3,88 -3,133 c 0,40 33,72 73,72 z"
+         fill="currentColor"
+         id="path104" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:44:45"
+     id="a114"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(41.6426,7.3338)"
+       id="g112">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path110" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:27:28"
+     id="a122"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(41.6426,12.4088)"
+       id="g120">
+      <text
+         font-family="serif"
+         font-size="2.0989px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text118"><tspan
+           id="tspan116">some</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(40.41215,3.628544)"
+     id="g126">
+    <rect
+       x="-0.061700001"
+       y="-2.55"
+       width="0.1233"
+       height="2.8225"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect124" />
+  </g>
+  <g
+     transform="translate(40.47385,1.118544)"
+     id="g130">
+    <path
+       transform="scale(0.0034,-0.0034)"
+       d="m 0,0 c 0,-197 207,-335 207,-532 0,-71 -15,-141 -41,-207 -5,-8 -13,-12 -21,-12 -14,0 -27,11 -24,28 26,60 42,125 42,191 0,103 -93,207 -163,282 H -18 V 0 Z"
+       fill="currentColor"
+       id="path128" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:20:21"
+     id="a136"
      transform="translate(-2.27615,-3.280256)">
     <g
        transform="translate(35.2002,12.4088)"
-       id="g198">
+       id="g134">
       <rect
          x="0"
          y="-0.54329997"
@@ -561,31 +393,200 @@ tspan { white-space: pre; }
          height="0.1233"
          ry="0.037900001"
          fill="currentColor"
-         id="rect196" />
+         id="rect132" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:42:43"
-     id="a206"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:48:49"
+     id="a142"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(39.5926,6.9088)"
-       id="g204">
+       transform="translate(43.95,7.3338)"
+       id="g140">
       <path
          transform="scale(0.0034,-0.0034)"
-         d="m 70,205 c 80,0 46,-97 90,-97 15,0 52,45 59,59 6,13 26,13 31,0 L 129,-250 c -9,-7 -19,-11 -30,-11 -11,0 -21,4 -30,11 L 187,76 C 154,64 119,54 84,54 37,54 -3,88 -3,133 c 0,40 33,72 73,72 z"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
          fill="currentColor"
-         id="path202" />
+         id="path138" />
+    </g>
+  </a>
+  <g
+     transform="translate(42.71955,3.628544)"
+     id="g146">
+    <rect
+       x="-0.061700001"
+       y="-2.4014001"
+       width="0.1233"
+       height="2.6738999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect144" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:30:31"
+     id="a152"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(30.9339,6.9088)"
+       id="g150">
+      <path
+         stroke-width="0.0759"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 0.7537,-2.975 c 0.6461,-0.6917 2.3128,-0.6917 2.9589,0 v 0 c -0.6461,-0.5779 -2.3128,-0.5779 -2.9589,0 z"
+         id="path148" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:44:45"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:50:51"
+     id="a158"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(46.2574,6.9088)"
+       id="g156">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path154" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:35:36"
+     id="a166"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(46.2574,12.4088)"
+       id="g164">
+      <text
+         font-family="serif"
+         font-size="2.0989px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text162"><tspan
+           id="tspan160">times</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(45.02695,3.628544)"
+     id="g170">
+    <rect
+       x="-0.061700001"
+       y="-2.6986001"
+       width="0.1233"
+       height="2.5462"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect168" />
+  </g>
+  <g
+     transform="translate(26.35045,4.321944)"
+     id="g174">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.164 0.04,-0.164 2.3907,-0.164 2.3907,0.164 "
+       id="polygon172" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:53:54"
+     id="a180"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(48.5648,6.9088)"
+       id="g178">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path176" />
+    </g>
+  </a>
+  <g
+     transform="translate(46.35025,3.628544)"
+     id="g184">
+    <rect
+       x="-0.061700001"
+       y="0.1525"
+       width="0.1233"
+       height="2.6809001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect182" />
+  </g>
+  <g
+     transform="translate(32.01665,4.321944)"
+     id="g188">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.164 0.04,-0.164 3.0757,0.1491 3.0757,0.4771 "
+       id="polygon186" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:10:11"
+     id="a194"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(16.2913,7.7588)"
+       id="g192">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path190" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:8:9"
+     id="a202"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(14.2843,12.4088)"
+       id="g200">
+      <text
+         font-family="serif"
+         font-size="2.0989px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text198"><tspan
+           id="tspan196">Cause</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(14.07685,3.628544)"
+     id="g206">
+    <rect
+       x="-0.061700001"
+       y="1.0025001"
+       width="0.1233"
+       height="1.9486001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect204" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:14:15"
      id="a212"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(41.6426,7.3338)"
+       transform="translate(19.8558,4.7838)"
        id="g210">
       <path
          transform="scale(0.0034,-0.0034)"
@@ -596,11 +597,11 @@ tspan { white-space: pre; }
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:27:28"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:14:15"
      id="a220"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(41.6426,12.4088)"
+       transform="translate(19.8558,12.4088)"
        id="g218">
       <text
          font-family="serif"
@@ -608,174 +609,174 @@ tspan { white-space: pre; }
          text-anchor="start"
          fill="currentColor"
          id="text216"><tspan
-           id="tspan214">some</tspan></text>
+           id="tspan214">I</tspan></text>
     </g>
   </a>
   <g
-     transform="translate(40.41215,3.628544)"
+     transform="translate(17.64125,3.628544)"
      id="g224">
     <rect
        x="-0.061700001"
-       y="-2.55"
+       y="-1.9725"
        width="0.1233"
-       height="2.8225"
+       height="3.5399001"
        ry="0.039999999"
        fill="currentColor"
        id="rect222" />
   </g>
-  <g
-     transform="translate(40.47385,1.118544)"
-     id="g228">
-    <path
-       transform="scale(0.0034,-0.0034)"
-       d="m 0,0 c 0,-197 207,-335 207,-532 0,-71 -15,-141 -41,-207 -5,-8 -13,-12 -21,-12 -14,0 -27,11 -24,28 26,60 42,125 42,191 0,103 -93,207 -163,282 H -18 V 0 Z"
-       fill="currentColor"
-       id="path226" />
-  </g>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:24:25"
-     id="a234"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:46:47"
+     id="a230"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(23.1511,6.9088)"
-       id="g232">
+       transform="translate(41.6426,6.9088)"
+       id="g228">
       <path
          stroke-width="0.0759"
          stroke-linejoin="round"
          stroke-linecap="round"
          stroke="currentColor"
          fill="currentColor"
-         d="m 0.7867,-2.975 c 0.8971,-0.8262 4.1454,-0.8262 5.0424,0 v 0 c -0.897,-0.7124 -4.1453,-0.7124 -5.0424,0 z"
-         id="path230" />
+         d="m 0.7537,1.0413 c 0.4705,0.5561 1.4368,0.5561 1.9074,0 v 0 c -0.4706,0.4423 -1.4369,0.4423 -1.9074,0 z"
+         id="path226" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:48:49"
-     id="a240"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:21:22"
+     id="a236"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(43.95,7.3338)"
-       id="g238">
+       transform="translate(23.1511,4.7838)"
+       id="g234">
       <path
          transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         d="m 312,64 c 0,23 -18,41 -41,41 C 232,105 70,-5 43,-37 36,-45 33,-54 33,-64 c 0,-23 18,-41 41,-41 39,0 201,110 228,142 7,8 10,17 10,27 z m -53,73 c 46,0 86,-17 86,-74 0,-26 -15,-112 -73,-151 -29,-20 -89,-49 -186,-49 -46,0 -86,17 -86,74 0,26 16,112 74,151 29,20 88,49 185,49 z"
          fill="currentColor"
-         id="path236" />
+         id="path232" />
     </g>
   </a>
   <g
-     transform="translate(42.71955,3.628544)"
+     transform="translate(22.42755,1.503544)"
+     id="g240">
+    <path
+       transform="scale(0.0034,-0.0034)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 111,31 111,0 111,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path238" />
+  </g>
+  <g
+     transform="translate(20.93665,3.628544)"
      id="g244">
     <rect
        x="-0.061700001"
-       y="-2.4014001"
+       y="-1.91"
        width="0.1233"
-       height="2.6738999"
+       height="2.76"
        ry="0.039999999"
        fill="currentColor"
        id="rect242" />
   </g>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:50:51"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:51:52"
      id="a250"
      transform="translate(-2.27615,-3.280256)">
     <g
        transform="translate(46.2574,6.9088)"
        id="g248">
       <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         stroke-width="0.0759"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
          fill="currentColor"
+         d="m 1.4382,-1.0413 c 0.3295,-0.4191 0.8934,-0.4191 1.2229,0 v 0 c -0.3295,-0.3053 -0.8934,-0.3053 -1.2229,0 z"
          id="path246" />
     </g>
   </a>
   <a
      style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:35:36"
-     id="a258"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:26:27"
+     id="a256"
      transform="translate(-2.27615,-3.280256)">
     <g
-       transform="translate(46.2574,12.4088)"
-       id="g256">
+       transform="translate(28.6266,4.7838)"
+       id="g254">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path252" />
+    </g>
+  </a>
+  <g
+     transform="translate(26.41205,3.628544)"
+     id="g260">
+    <rect
+       x="-0.061700001"
+       y="-1.9725"
+       width="0.1233"
+       height="2.6659999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect258" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:29:30"
+     id="a266"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(30.9339,4.7838)"
+       id="g264">
+      <path
+         transform="scale(0.0034,-0.0034)"
+         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
+         fill="currentColor"
+         id="path262" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///Users/tomsegarra/Documents/dev/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:23:16:17"
+     id="a274"
+     transform="translate(-2.27615,-3.280256)">
+    <g
+       transform="translate(30.9339,12.4088)"
+       id="g272">
       <text
          font-family="serif"
          font-size="2.0989px"
          text-anchor="start"
          fill="currentColor"
-         id="text254"><tspan
-           id="tspan252">times</tspan></text>
+         id="text270"><tspan
+           id="tspan268">won</tspan></text>
     </g>
   </a>
   <g
-     transform="translate(45.02695,3.628544)"
-     id="g262">
+     transform="translate(28.71945,3.628544)"
+     id="g278">
     <rect
        x="-0.061700001"
-       y="-2.6986001"
+       y="-1.9725"
        width="0.1233"
-       height="2.5462"
+       height="2.6659999"
        ry="0.039999999"
        fill="currentColor"
-       id="rect260" />
+       id="rect276" />
   </g>
   <g
-     transform="translate(14.01515,6.603544)"
-     id="g266">
+     transform="translate(42.65795,1.235144)"
+     id="g282">
     <polygon
        stroke-linejoin="round"
        stroke-linecap="round"
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.164 0.04,-0.164 3.6478,-1.5956 3.6478,-1.2676 "
-       id="polygon264" />
+       points="0.04,0.164 0.04,-0.164 2.3907,-0.4771 2.3907,-0.1491 "
+       id="polygon280" />
   </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:53:54"
-     id="a272"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(48.5648,6.9088)"
-       id="g270">
-      <path
-         transform="scale(0.0034,-0.0034)"
-         d="m 215,137 c 67,0 111,-37 111,-92 0,-90 -111,-182 -215,-182 -67,0 -111,37 -111,92 0,90 111,182 215,182 z"
-         fill="currentColor"
-         id="path268" />
-    </g>
-  </a>
-  <g
-     transform="translate(46.35025,3.628544)"
-     id="g276">
-    <rect
-       x="-0.061700001"
-       y="0.1525"
-       width="0.1233"
-       height="2.6809001"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect274" />
-  </g>
-  <a
-     style="color:inherit"
-     xlink:href="textedit:///Users/tomsegarra/Downloads/dummies/lilypond_files/8d57caa59549b504288d0e84763900d5.ly:20:16:17"
-     id="a282"
-     transform="translate(-2.27615,-3.280256)">
-    <g
-       transform="translate(19.8558,6.9088)"
-       id="g280">
-      <path
-         stroke-width="0.0759"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         stroke="currentColor"
-         fill="currentColor"
-         d="m 0.7537,-2.975 c 0.6416,-0.6887 2.2868,-0.6887 2.9284,0 v 0 c -0.6416,-0.5749 -2.2868,-0.5749 -2.9284,0 z"
-         id="path278" />
-    </g>
-  </a>
 </svg>
